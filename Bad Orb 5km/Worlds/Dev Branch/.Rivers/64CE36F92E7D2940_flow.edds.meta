@@ -1,0 +1,18 @@
+MetaFileClass {
+ Name "{0249D3D6DA2F032C}Worlds/Dev Branch/.Rivers/64CE36F92E7D2940_flow.edds"
+ Configurations {
+  DDSResourceClass PC {
+   Conversion None
+  }
+  DDSResourceClass XBOX_ONE : PC {
+  }
+  DDSResourceClass XBOX_SERIES : PC {
+  }
+  DDSResourceClass PS4 : PC {
+  }
+  DDSResourceClass PS5 : PC {
+  }
+  DDSResourceClass HEADLESS : PC {
+  }
+ }
+}

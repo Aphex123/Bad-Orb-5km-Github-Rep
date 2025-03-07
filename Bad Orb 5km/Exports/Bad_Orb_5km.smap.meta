@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{FE33B5786C23A02C}Exports/Bad_Orb_5km.smap"
+ Configurations {
+  SoundMapResourceClass PC {
+  }
+  SoundMapResourceClass XBOX_ONE : PC {
+  }
+  SoundMapResourceClass XBOX_SERIES : PC {
+  }
+  SoundMapResourceClass PS4 : PC {
+  }
+  SoundMapResourceClass PS5 : PC {
+  }
+  SoundMapResourceClass HEADLESS : PC {
+  }
+ }
+}

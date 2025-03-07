@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{FF19B45E169B591F}NavMesh/Bad_Orb_lowres.nmn"
+ Configurations {
+  NavMeshResourceClass PC {
+  }
+  NavMeshResourceClass XBOX_ONE : PC {
+  }
+  NavMeshResourceClass XBOX_SERIES : PC {
+  }
+  NavMeshResourceClass PS4 : PC {
+  }
+  NavMeshResourceClass PS5 : PC {
+  }
+  NavMeshResourceClass HEADLESS : PC {
+  }
+ }
+}
