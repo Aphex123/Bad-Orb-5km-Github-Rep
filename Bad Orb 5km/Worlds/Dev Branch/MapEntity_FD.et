@@ -1,0 +1,19 @@
+SCR_MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ ID "5255036BAB847859"
+ coords 2990.354 339.929 2564.952
+ "Map Geometry Data" "{B6730CF130CB68AF}Exports/Bad_Orb_5km.topo"
+ "Satellite background image" "{3D7532DC9D2A22B9}Exports/Forest_Export.edds"
+ {
+  CommentEntity {
+   ID "658F1A61B8661448"
+   coords 0 1 0
+   m_Comment "MapEntity: "\
+   "Set up map textures"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
