@@ -1,0 +1,13 @@
+Tree : "{D7163D1B571F4C0C}Prefabs/Vegetation/Core/Bush_Base.et" {
+ ID "2272273384468550"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   Object "{831813E90E4A648F}Assets/Vegetation/Bush/Juniperus_Communis/b_Juniperus_communis_0.xob"
+   LODFactors {
+    50 15 7 4
+   }
+  }
+ }
+ scale 1.104
+ SoundType Bush_Small
+}

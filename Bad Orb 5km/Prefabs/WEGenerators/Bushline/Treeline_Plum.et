@@ -1,0 +1,25 @@
+PrefabGeneratorEntity {
+ ID "61B4D5660D78403F"
+ coords 0 0 0
+ Flags 1048579
+ GeneratorType GeneratorTypeVegetation "{61B4D5660D7840EF}" {
+ }
+ m_PrefabNames {
+  "{8520122192ED3D6C}PrefabLibrary/Vegetation/Trees/t_prunus_domestica_2s.et"
+ }
+ m_Weights {
+  0
+ }
+ m_fDistance 10
+ m_bAlignWithShape 0
+ m_fOffsetVariance 0.5
+ m_fRandomSpacing 0
+ m_fOffsetForward 1
+ m_bPerlinDens 1
+ m_fPerlinThreshold -1
+ m_fPerlinFrequency 50
+ m_fPerlinSeed 8.5
+ m_fPerlinAmplitude 5
+ m_fPerlinOffset -100
+ m_fPerlinThrowAway 1
+}

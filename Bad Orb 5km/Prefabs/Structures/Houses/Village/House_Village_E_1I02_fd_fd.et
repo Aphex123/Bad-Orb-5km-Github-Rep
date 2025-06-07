@@ -1,0 +1,8 @@
+SCR_DestructibleBuildingEntity : "{81E83A74C5FF26DF}Prefabs/Structures/Houses/Village/House_Village_E_1I02/House_Village_E_1I02.et" {
+ ID "46B3A6A453594AB6"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   PixelSizeScale 2
+  }
+ }
+}

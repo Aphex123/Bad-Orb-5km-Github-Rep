@@ -1,0 +1,8 @@
+SCR_DestructibleBuildingEntity : "{BBCEDBF2C4E3E896}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_Office.et" {
+ ID "51DEB81BB396EA93"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   PixelSizeScale 4
+  }
+ }
+}

@@ -1,0 +1,32 @@
+Tree : "{D7163D1B571F4C0C}Prefabs/Vegetation/Core/Bush_Base.et" {
+ ID "2272273384468550"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   Object "{D5897F864AC4C641}Assets/Vegetation/Bush/Juniperus_Communis/b_Juniperus_communis_2s.xob"
+   LODFactors {
+    15 5 3 3 3
+   }
+  }
+  RigidBody "{4EFA6762916D17E5}" {
+   ResponseIndex "MediumDestructible"
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ MaxHealth 500
+ FirstDestructionPhase SCR_BaseDestructionPhase "{650D2398ED30BF58}" {
+  m_aPhaseDestroySpawnObjects {
+   SCR_DebrisSpawnable "{5EB0D2F7F318A546}" : "{710B25EBF5D059FF}Configs/Destruction/TreeDestruction/FX_Debris/FX_Debris_Tree_Small.conf" {
+    m_ModelPrefabs {
+     "{E4A332859EC15A49}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_2s_dst_top01.xob" "{7DBD8B1C83266BD9}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_2s_dst_top02.xob" "{0AB7E394778484A9}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_2s_dst_top03.xob"
+    }
+    m_fMass 100
+   }
+  }
+ }
+ LastDestructionPhase SCR_BaseDestructionPhase "{650D2398ED30BF76}" {
+  m_sPhaseModel "{B2EBE806D1D6787E}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_2s_dst_base.xob"
+ }
+ SoundType Conifer
+ m_iFoliageHeight 2
+}

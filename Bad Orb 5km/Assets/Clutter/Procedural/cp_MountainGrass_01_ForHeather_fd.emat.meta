@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9A8774C6AB44613B}Assets/Clutter/Procedural/cp_MountainGrass_01_ForHeather_fd.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

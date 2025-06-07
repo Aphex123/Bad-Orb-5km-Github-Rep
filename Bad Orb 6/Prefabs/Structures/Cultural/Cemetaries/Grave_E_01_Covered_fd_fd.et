@@ -1,8 +1,0 @@
-SCR_DestructibleBuildingEntity : "{E17539BAD367C48C}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Covered.et" {
- ID "5272E317AA6C9C92"
- components {
-  MeshObject "{506EDA9D46FC6C06}" {
-   PixelSizeScale 5
-  }
- }
-}

@@ -1,0 +1,14 @@
+PrefabGeneratorEntity : "{59B839313DD31D8C}Prefabs/WEGenerators/Bushline/PG_Bushline_Corylus_01.et" {
+ ID "50D87AB921E0D50F"
+ coords 0 0 0
+ Flags 1048579
+ m_PrefabNames {
+  "{AD6B6BF2E64A6145}PrefabLibrary/Vegetation/Trees/t_sorbus_aucuparia_2w.et" "{4F87818365E5D8D9}PrefabLibrary/Vegetation/Trees/t_sorbus_aucuparia_2f.et" "{3475D26BFBAD50D5}PrefabLibrary/Vegetation/Trees/t_sorbus_aucuparia_1w.et" "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et" "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et" "{CF0A210B7AC7B329}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_2.et" "{960EA50FD57CD7D5}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1sw.et" "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
+ }
+ m_Weights {
+  0.2 0.2 0.2 1 1 0.5 0.2 0.2
+ }
+ m_fDistance 3
+ m_bAlignWithShape 0
+ m_fOffsetVariance 3
+}

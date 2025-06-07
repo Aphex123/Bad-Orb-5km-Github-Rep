@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/bentc/Documents/Project Fulda/Workbench/Bad Orb 5km/Satmaps/Satmap_combination.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

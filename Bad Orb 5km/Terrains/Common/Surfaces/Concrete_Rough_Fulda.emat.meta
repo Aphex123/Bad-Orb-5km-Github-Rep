@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{868CE8320EF0AD74}Terrains/Common/Surfaces/Concrete_01_b.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

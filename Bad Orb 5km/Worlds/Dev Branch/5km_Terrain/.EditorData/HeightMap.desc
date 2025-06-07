@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/bentc/Documents/Project Fulda/5km Files/8km to 5km transformed.asc"
+ Flags 1
+ MinHeight -1000000
+ ResampleMinHeight 0
+ ResampleMaxHeight 1
+}

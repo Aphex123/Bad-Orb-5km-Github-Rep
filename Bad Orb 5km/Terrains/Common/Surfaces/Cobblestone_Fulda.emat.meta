@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EB9C3F8629349C47}Terrains/Common/Surfaces/Cobblestone_01_Wave_b.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,8 +1,0 @@
-GenericEntity : "{1CF33A86C184B00B}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_Duvanblade.et" {
- ID "55DAD3EB50374E38"
- components {
-  MeshObject "{5872F0EB7FA40561}" {
-   PixelSizeScale 5
-  }
- }
-}

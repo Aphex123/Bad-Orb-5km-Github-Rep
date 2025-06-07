@@ -1,0 +1,86 @@
+$grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_fd_fd.et" {
+ {
+  coords 2541.207 0 4929.877
+  angleX 33.33
+  angleY 45.618
+  angleZ 22.398
+  scale 0.8
+ }
+ {
+  coords 2542.567 0 4923.781
+  angleX -15.954
+  angleY -156.177
+  angleZ -6.92
+  scale 0.8
+ }
+ {
+  coords 2574.694 0 4925.426
+  angleX -0.114
+  angleY -98.173
+  angleZ -69.337
+  scale 0.8
+ }
+ {
+  coords 2576.917 0 4885.08
+  angleX 17.761
+  angleY -138.772
+  angleZ 8.453
+  scale 0.8
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{287038D22114554C}Prefabs/Structures/Walls/Concrete/RetainingWall_02/ConcreteRetainingWall_02_8m_fd_fd.et" {
+ {
+  coords 2561.914 206.958 4927.085
+  angleY -1.103
+  scale 1.25
+ }
+ {
+  coords 2562.643 206.912 4886.817
+  angleY -1.103
+  scale 1.25
+ }
+}
+Tree : "{8FA7E47605ECC311}Prefabs/Vegetation/Bushes/b_corylus_avellana_2_fd_fd.et" {
+ coords 2583.396 0 4931.111
+ angleX 21.588
+ angleY -52.829
+ angleZ -18.827
+ scale 0.8
+}
+$grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_straight_fd_fd.et" {
+ {
+  coords 2572.65 207.03 4927.86
+  angleY 13.391
+  scale 2
+ }
+ {
+  coords 2541.194 205.774 4925.82
+  scale 2
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{D55E6CC61FAC3254}Prefabs/Structures/Walls/Concrete/RetainingWall_02/ConcreteRetainingWall_02_End_fd_fd.et" {
+ {
+  coords 2568.542 207.783 4926.669
+  angleY -1.067
+ }
+ {
+  coords 2553.618 207.298 4926.367
+  angleY 179.001
+ }
+}
+$grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
+ {
+  coords 2546.106 0 4924.556
+  angleX 11.835
+  angleY -84.169
+  angleZ -63.529
+  scale 0.8
+ }
+ {
+  coords 2576.823 0 4887.357
+  angleX 7.845
+  angleY 75.695
+  angleZ 15.891
+  scale 0.8
+ }
+}

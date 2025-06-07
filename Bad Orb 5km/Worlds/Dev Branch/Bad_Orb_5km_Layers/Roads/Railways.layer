@@ -1,0 +1,429 @@
+SplineShapeEntity {
+ coords 2.341 145.822 3595.453
+ Points {
+  ShapePoint "{6169139C6171587C}" {
+   Position 0 -0.01 0
+  }
+  ShapePoint "{6169139C616E2DBC}" {
+   Position 24.018 0.24 30.178
+  }
+  ShapePoint "{64D232E4634B043E}" {
+   Position 52.9 0.553 71.881
+  }
+  ShapePoint "{6169139C67BE5B52}" {
+   Position 83.18 0.647 117.092
+  }
+  ShapePoint "{64D232E46969D5BC}" {
+   Position 118.389 -1.057 175.331
+  }
+  ShapePoint "{6169139C67791D8E}" {
+   Position 151.199 -3.312 232.227
+  }
+  ShapePoint "{64D232E469666BC2}" {
+   Position 191.161 -7.484 308.394
+  }
+  ShapePoint "{6169139C65B3F1E0}" {
+   Position 225.691 -11.145 375.868
+  }
+  ShapePoint "{64D232E47F37FD82}" {
+   Position 250.248 -11.15 421.465
+  }
+  ShapePoint "{64D232E47B7D926E}" {
+   Position 268.53 -10.011 454.639
+  }
+  ShapePoint "{64D232E47F342511}" {
+   Position 292.817 -8.936 498.894
+  }
+  ShapePoint "{6169139C6534E474}" {
+   Position 319.882 -8.135 548.291
+  }
+  ShapePoint "{64D232E47F34584D}" {
+   Position 384.947 -9.135 668.207
+  }
+  ShapePoint "{64D353EFFA2AF140}" {
+   Position 423.331 -9.728 738.943
+  }
+  ShapePoint "{6169139C5DDD166B}" {
+   Position 462.485 -10.041 810.976
+  }
+  ShapePoint "{64D353EFFE1F9838}" {
+   Position 495.547 -9.478 871.487
+  }
+  ShapePoint "{64D353EC0E5A3356}" {
+   Position 533.705 -8.728 941.268
+  }
+  ShapePoint "{64D353EFFD71CE0D}" {
+   Position 571.494 -8.01 1010.363
+  }
+  ShapePoint "{6169139C53C92D23}" {
+   Position 613.627 -7.51 1087.46
+  }
+  ShapePoint "{64D353EFF24819AA}" {
+   Position 648.074 -7.885 1150.669
+  }
+  ShapePoint "{64D353EC013EBA81}" {
+   Position 686.535 -8.434 1221.262
+  }
+  ShapePoint "{64D353EFF01FA017}" {
+   Position 722.587 -8.947 1287.422
+  }
+  ShapePoint "{6169139C51B63EB2}" {
+   Position 760.786 -9.322 1357.433
+  }
+  ShapePoint "{64D353EC0697C35F}" {
+   Position 816.429 -8.541 1458.839
+  }
+  ShapePoint "{64A54E27E2BA85E6}" {
+   Position 851.456 -7.853 1522.58
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  RER_RailGeneratorEntity : "{66E7AA6792FD0BC4}Prefabs/WEGenerators/Railway/New/RWG_NewRailwayHigh.et" {
+   coords 0 0 0
+   Flags 1048579
+   {
+    $grp GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+     {
+      coords 145.349 -3.323 223.797
+      angleX -2.479
+      angleY 28.513
+      angleZ 0.103
+      {
+       GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+        coords 0 0 40
+        angleX 0.004
+        {
+         GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+          coords 0 -0.01 39.997
+          angleX -0.239
+          {
+           GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+            coords 0 0 25
+            angleX 0.007
+            {
+             GenericEntity : "{AE2830245CC56A76}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_5_new.et" {
+              coords -0.025 -0 24.991
+              angleX -0.003
+              angleY -2.5
+              {
+               GenericEntity : "{639CC5BB071E4933}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_5_new.et" {
+                coords -0.363 0.063 24.998
+                angleX 1.465
+                {
+                 GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                  coords 0.388 0.034 24.998
+                  angleX 0.804
+                  angleY 2.5
+                  {
+                   GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                    coords 0 0.082 40.024
+                    angleX 1.912
+                    {
+                     GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                      coords 0 -0.022 39.993
+                      angleX -0.505
+                      {
+                       GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                        coords 0 0.001 40
+                        angleX 0.021
+                       }
+                      }
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+     {
+      coords 298.487 -8.894 510.206
+      angleX 0.997
+      angleY 28.523
+      angleZ 0.167
+      {
+       GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+        coords 0 -0.059 39.981
+        angleX -1.379
+        {
+         GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+          coords 0 0.001 25
+          angleX 0.02
+          {
+           GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+            coords 0 0 40
+            angleX 0.009
+            {
+             GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+              coords 0 0 25
+              angleX 0.006
+              {
+               GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                coords 0 -0.002 24.999
+                angleX -0.057
+                {
+                 GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                  coords 0 0 25
+                  angleX 0.002
+                  {
+                   GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                    coords 0 -0 40
+                    {
+                     GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                      coords 0 0.005 25.002
+                      angleX 0.127
+                      {
+                       GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                        coords 0 0.002 40
+                        angleX 0.037
+                       }
+                      }
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+     {
+      coords 446.487 -9.892 782.57
+      angleX 0.14
+      angleY 28.52
+      angleZ 0.167
+      {
+       GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+        coords 0 0.007 40.002
+        angleX 0.154
+        {
+         GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+          coords 0 0.006 40.002
+          angleX 0.15
+          {
+           GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+            coords 0 0.003 40.001
+            angleX 0.059
+            {
+             GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+              coords 0 0 40
+              angleX 0.011
+              {
+               GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                coords 0 0 40
+                angleX 0.003
+                {
+                 GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                  coords 0 0 25
+                  angleX 0.001
+                  {
+                   GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                    coords 0 -0.007 24.998
+                    angleX -0.173
+                    {
+                     GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                      coords 0 0 40
+                      angleX 0.006
+                      {
+                       GenericEntity : "{639CC5BB071E4933}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_5_new.et" {
+                        coords -0.175 0 25
+                        angleX 0.008
+                        angleY 2.5
+                       }
+                      }
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+    $grp GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+     {
+      coords 1.527 0.006 1.918
+      angleX 0.371
+      angleY 38.515
+      {
+       GenericEntity : "{AE2830245CC56A76}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_5_new.et" {
+        coords -0.025 -0.001 24.991
+        angleX -0.015
+        angleY -2.5
+        {
+         GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+          coords -0.188 0 24.988
+          angleX 0.002
+          angleY -2.5
+          {
+           GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+            coords 0 -0.011 24.997
+            angleX -0.257
+            {
+             GenericEntity : "{639CC5BB071E4933}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_5_new.et" {
+              coords -0.175 0.006 40.002
+              angleX 0.134
+              angleY 2.5
+              {
+               GenericEntity : "{475DBFCF9E060E7F}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_10_new.et" {
+                coords 0.332 -0.069 24.956
+                angleX -1.642
+                angleY -2.5
+                {
+                 GenericEntity : "{639CC5BB071E4933}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_5_new.et" {
+                  coords -0.546 0.004 24.96
+                  angleX 0.091
+                  angleY -2.5
+                  {
+                   GenericEntity : "{AE2830245CC56A76}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_5_new.et" {
+                    coords 0.362 -0.021 24.973
+                    angleX -0.504
+                    {
+                     GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                      coords -0.188 0.001 24.988
+                      angleX 0.015
+                      angleY -2.5
+                      {
+                       GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                        coords 0 -0.029 24.991
+                        angleX -0.691
+                       }
+                      }
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+     {
+      coords 780.193 -9.067 1392.104
+      angleX 0.329
+      angleY 28.521
+      angleZ 0.192
+      {
+       GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+        coords 0 0.004 25.001
+        angleX 0.102
+        {
+         GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+          coords 0 0.004 40.001
+          angleX 0.089
+          {
+           GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+            coords 0 0 40
+            angleX 0.003
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+    GenericEntity : "{AE2830245CC56A76}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_5_new.et" {
+     coords 609.917 -7.583 1080.634
+     angleX -0.235
+     angleY 31.019
+     angleZ 0.182
+     {
+      GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+       coords -0.188 0.001 24.988
+       angleX 0.016
+       angleY -2.5
+       {
+        GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+         coords 0 -0.006 24.998
+         angleX -0.132
+         {
+          GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+           coords 0 0 40
+           angleX 0.005
+           {
+            GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+             coords 0 -0.002 40
+             angleX -0.037
+             {
+              GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+               coords 0 0 40
+               angleX 0.001
+               {
+                GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                 coords 0 0.003 40.001
+                 angleX 0.06
+                 {
+                  GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                   coords 0 0.001 40
+                   angleX 0.028
+                   {
+                    GenericEntity : "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" {
+                     coords 0 0.013 40.004
+                     angleX 0.313
+                     {
+                      GenericEntity : "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" {
+                       coords 0 0.007 40.002
+                       angleX 0.161
+                      }
+                     }
+                    }
+                   }
+                  }
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+  RoadGeneratorEntity : "{6B2D0F426DC3118F}Prefabs/WEGenerators/Roads/Railway/R_Railway.et" {
+   coords 0 0 0
+   RoadClearance 8
+  }
+ }
+}

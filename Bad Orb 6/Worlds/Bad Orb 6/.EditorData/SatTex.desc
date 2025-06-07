@@ -1,7 +1,0 @@
-SatGenDescClass {
- FileName "C:/Users/bentc/Documents/Project Fulda/6km Files/6km_satmap_Composite.png"
- sRGBOutput 0
- RenderRoads 1
- Interpolation bilinear
- RoadsAA "8x"
-}

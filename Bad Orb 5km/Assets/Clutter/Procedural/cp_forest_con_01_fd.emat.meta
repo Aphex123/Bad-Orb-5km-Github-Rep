@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6B7B90FA5CB81FC8}Assets/Clutter/Procedural/cp_forest_con_01_fd.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

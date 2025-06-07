@@ -1,0 +1,3515 @@
+$grp GenericEntity : "{254D18180BCD89CE}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_single_fd_fd.et" {
+ {
+  coords 4606.233 -0.001 3545.955
+  angleY 48
+ }
+ {
+  coords 4626.787 0 3547.454
+  angleY -148
+ }
+ {
+  coords 4645.253 0 3526.531
+  angleY 22
+ }
+ {
+  coords 4663.89 0 3530.378
+  angleY -117
+ }
+ {
+  coords 4673.321 0 3550.839
+  angleY 137
+ }
+ {
+  coords 4672.204 0 3513.342
+  angleY 20
+ }
+ {
+  coords 4772.498 0 3491.206
+  angleY -167
+ }
+ {
+  coords 4877.876 0 3448.387
+  angleY -142
+ }
+ {
+  coords 4833.169 0 3490.024
+  angleY 123
+ }
+ {
+  coords 4851.569 0 3504.06
+  angleY -59
+ }
+ {
+  coords 4649.882 0.001 3584.375
+  angleY -22
+ }
+ {
+  coords 4632.321 -0.001 3559.381
+  angleY -49
+ }
+ {
+  coords 4776.057 0.001 3596.075
+  angleY -37
+ }
+ {
+  coords 4767.612 0 3587.24
+  angleY -53
+ }
+ {
+  coords 4804.144 0 3626.641
+  angleY -51
+ }
+ {
+  coords 4931.063 0 3411.547
+ }
+ {
+  coords 4919.787 0 3420.689
+  angleY 76
+ }
+ {
+  coords 4934.513 0 3434.651
+  angleY -137
+ }
+ {
+  coords 4423.996 0 3926.814
+  angleY -40
+ }
+ {
+  coords 4517.397 0 3883.51
+  angleY 23
+ }
+ {
+  coords 4497.389 0 3869.227
+  angleY 121
+ }
+ {
+  coords 4497.046 -0.001 3834.612
+  angleY 33
+ }
+ {
+  coords 4447.612 0 3849.677
+  angleY 33
+ }
+ {
+  coords 4728.614 0.001 3800.539
+  angleY -72
+ }
+ {
+  coords 4712.684 0 3791.826
+  angleY 73
+ }
+ {
+  coords 4711.805 0 3765.527
+  angleY -114
+ }
+ {
+  coords 4738.327 0 3741.552
+  angleY 173
+ }
+ {
+  coords 4774.683 -0.001 3773.01
+  angleY -10
+ }
+ {
+  coords 4754.686 0 3748.517
+  angleY -60
+ }
+ {
+  coords 4773.486 0 3695.535
+  angleY 120
+ }
+ {
+  coords 4813.301 0 3725.753
+  angleY 152
+ }
+ {
+  coords 4830.328 0 3724.279
+  angleY -129
+ }
+ {
+  coords 4847.113 0 3691.394
+  angleY 91
+ }
+ {
+  coords 4831.207 0 3673.256
+  angleY 138
+ }
+ {
+  coords 4972.259 0 3769.621
+  angleY -52
+ }
+ {
+  coords 4966.99 0 3757.604
+  angleY -93
+ }
+ {
+  coords 4993.483 0 3737.537
+  angleY -172
+ }
+ {
+  coords 5009.711 0.001 3743.195
+  angleY 125
+ }
+ {
+  coords 4979.388 0 3748.19
+  angleY -145
+ }
+ {
+  coords 4991.871 0 3717.279
+  angleY -15
+ }
+ {
+  coords 5005.051 0 3722.766
+  angleY -15
+ }
+ {
+  coords 5023.971 0 3731.015
+  angleY -15
+ }
+ {
+  coords 4950.203 0 3750.382
+  angleY 114
+ }
+ {
+  coords 4954.154 0 3766.143
+  angleY 114
+ }
+ {
+  coords 4957.483 0 3781.155
+  angleY 79
+ }
+ {
+  coords 4968.291 0 3721.229
+  angleY 30
+ }
+ {
+  coords 4956.555 0.001 3729.213
+  angleY 30
+ }
+ {
+  coords 4947.107 0 3787.274
+  angleY -29
+ }
+ {
+  coords 4925.67 0 3762.528
+  angleY -46
+ }
+ {
+  coords 4878.677 0 3710.878
+  angleY -46
+ }
+ {
+  coords 4899.142 0 3732.679
+  angleY -46
+ }
+ {
+  coords 4785.685 0 3819.604
+  angleY -46
+ }
+ {
+  coords 4816.529 0 3832.702
+  angleY -142
+ }
+ {
+  coords 4850.87 0 3802.291
+  angleY 45
+ }
+ {
+  coords 4898.045 0 3823.828
+  angleY -4
+ }
+ {
+  coords 4641.608 0 3503.49
+  angleY -85
+ }
+ {
+  coords 4613.287 0 3485.377
+  angleY 134
+ }
+ {
+  coords 4613.251 0 3450.608
+  angleY 56
+ }
+ {
+  coords 4635.833 0 3435.768
+  angleY 22
+ }
+ {
+  coords 4657.073 0 3427.095
+  angleY 21
+ }
+ {
+  coords 4612.428 -0.001 3465.582
+  angleY -82
+ }
+ {
+  coords 4373.485 0 4314.069
+  angleY -83
+ }
+ {
+  coords 3954.893 0 4078.708
+  angleY -27
+ }
+ {
+  coords 3844.439 0 4122.081
+  angleY 124
+ }
+ {
+  coords 3842.676 0 4123.055
+  angleY -39
+ }
+ {
+  coords 3375.267 0 4429.417
+  angleY -110
+ }
+ {
+  coords 3358.208 -0.003 4439.329
+  angleY -110
+ }
+ {
+  coords 3321.341 0 4437.117
+  angleY 113
+ }
+ {
+  coords 3413.484 0 4443.389
+  angleY 168
+ }
+ {
+  coords 3439.028 0 4419.695
+  angleY -137
+ }
+ {
+  coords 3440.824 0 4462.429
+  angleY -47
+ }
+ {
+  coords 3472.965 -0.001 4443.987
+  angleY -157
+ }
+ {
+  coords 3577.225 0 4381.65
+  angleY 78
+ }
+ {
+  coords 3559.389 0 4930.229
+  angleY -74
+ }
+ {
+  coords 3591.319 0 4947.897
+  angleY -7
+ }
+ {
+  coords 3570.618 0 4996.894
+  angleY -98
+ }
+ {
+  coords 3617.29 0 5009.021
+  angleY 83
+ }
+ {
+  coords 3629.809 0 4947.766
+  angleY 132
+ }
+ {
+  coords 3642.178 0 4983.162
+  angleY 143
+ }
+}
+$grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
+ Schwarzwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4289.769 240.935 3236.544
+ }
+ Schwarzwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4191.02 257.917 2783.849
+ }
+ Grunewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Grunewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Grunewald"
+   }
+  }
+  coords 3966.015 280.36 2419.063
+ }
+ Poopenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Poopenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Poopenwald"
+   }
+  }
+  coords 3479.006 156.562 4274.754
+ }
+ Ringwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Ringwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Ringwald"
+   }
+  }
+  coords 426.631 181.071 2816.582
+ }
+ WC_671 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-671"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-671"
+   }
+  }
+  coords 1523.572 199.335 2279.225
+ }
+ WC_672 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-672"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-672"
+   }
+  }
+  coords 1807.737 233.127 2121.794
+ }
+ WC_670 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-670"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-670"
+   }
+  }
+  coords 1131.509 191.15 2104.437
+ }
+ WC_669 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-669"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-669"
+   }
+  }
+  coords 1217.803 219.712 1946.628
+ }
+ WC_673b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1495.54 258.114 1954.722
+ }
+ WC_673c {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1597.104 297.012 1576.232
+ }
+ WC_673a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1847.459 292.172 1773.599
+ }
+ WC_668 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-668"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-668"
+   }
+  }
+  coords 1341.545 245.791 1763.367
+ }
+ WC_667 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-667"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-667"
+   }
+  }
+  coords 1092.6 238.827 1684.62
+ }
+ WC_666 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-666"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-666"
+   }
+  }
+  coords 1002.022 187.043 2022.89
+ }
+ WC_665 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-665"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-665"
+   }
+  }
+  coords 805.465 220.009 1912.562
+ }
+ WC_664 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-664"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-664"
+   }
+  }
+  coords 676.004 240.514 1847.562
+ }
+ WC_663 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-663"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-663"
+   }
+  }
+  coords 609.386 213.922 2037.903
+ }
+ WC_662 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-662"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-662"
+   }
+  }
+  coords 554.409 192.253 2168.344
+ }
+ WC_661 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-661"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-661"
+   }
+  }
+  coords 218.43 218.682 2337.339
+ }
+ WC_660 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-660"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-660"
+   }
+  }
+  coords 9.778 197.936 2508.265
+ }
+ WC_675 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-675"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-675"
+   }
+  }
+  coords 1030.196 294.728 1416.824
+ }
+ WC_674 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-674"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-674"
+   }
+  }
+  coords 1419.062 277.334 1313.887
+ }
+ WC_676 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-676"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-676"
+   }
+  }
+  coords 1577.579 298.797 1271.991
+ }
+ WC_677 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-677"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-677"
+   }
+  }
+  coords 1349.661 237.884 1612.322
+ }
+ WC_678 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-678"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-678"
+   }
+  }
+  coords 868.981 291.264 1299.54
+ }
+ WC_679a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-679"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-679"
+   }
+  }
+  coords 106.661 160.081 1935.659
+ }
+ WC_679b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-679"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-679"
+   }
+  }
+  coords 89.638 155.555 1407.155
+ }
+ WC_680 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-680"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-680"
+   }
+  }
+  coords 812.529 222.03 930.121
+ }
+ WC_681 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-681"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-681"
+   }
+  }
+  coords 1073.121 272.751 884.866
+ }
+ WC_682 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-682"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-682"
+   }
+  }
+  coords 816.657 224.083 245.494
+ }
+ WC_683 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-683"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-683"
+   }
+  }
+  coords 708.337 269.971 99.087
+ }
+ WC_684a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-684"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-684"
+   }
+  }
+  coords 1356.109 259.19 548.218
+ }
+ WC_685 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-685"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-685"
+   }
+  }
+  coords 1742.396 212.323 270.315
+ }
+ WC_684b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-684"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-684"
+   }
+  }
+  coords 1776.623 273.371 439.294
+ }
+ WC_686a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-686"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-686"
+   }
+  }
+  coords 1213.96 309.596 1006.554
+ }
+ WC_686b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-686"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-686"
+   }
+  }
+  coords 1548.324 326.539 774.723
+ }
+ WC_687 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-687"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-687"
+   }
+  }
+  coords 1631.791 320.104 1059.571
+ }
+ WC_688 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-688"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-688"
+   }
+  }
+  coords 1845.396 336.595 1316.471
+ }
+ WC_689 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-689"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-689"
+   }
+  }
+  coords 1757.187 295.782 1665.232
+ }
+ WC_690 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-690"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-690"
+   }
+  }
+  coords 2000.9 301.844 1619.878
+ }
+ WC_691 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-691"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-691"
+   }
+  }
+  coords 2147.769 335.215 1372.189
+ }
+ WC_692 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-692"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-692"
+   }
+  }
+  coords 2171.267 355.949 1245.225
+ }
+ WC_693 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-693"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-693"
+   }
+  }
+  coords 2108.892 361.279 1171.667
+ }
+ WC_694 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-694"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-694"
+   }
+  }
+  coords 1981.501 358.762 966.845
+ }
+ WC_695 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-695"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-695"
+   }
+  }
+  coords 1815.615 337.357 898.49
+ }
+ WC_696 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-696"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-696"
+   }
+  }
+  coords 1736.676 328.889 776.902
+ }
+ WC_697 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-697"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-697"
+   }
+  }
+  coords 1962.289 320.316 789.38
+ }
+ WC_698 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-698"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-698"
+   }
+  }
+  coords 1824.184 304.502 628.54
+ }
+ WC_699 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-699"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-699"
+   }
+  }
+  coords 2041.455 294.139 655.869
+ }
+ WC_700 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-700"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-700"
+   }
+  }
+  coords 2138.087 292.761 577.211
+ }
+ WC_701 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-701"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-701"
+   }
+  }
+  coords 2068.846 241.211 414.876
+ }
+ WC_702 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-702"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-702"
+   }
+  }
+  coords 2355.34 242.495 356.762
+ }
+ WC_703 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-703"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-703"
+   }
+  }
+  coords 2856.082 238.813 190.56
+ }
+ WC_704a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-704"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-704"
+   }
+  }
+  coords 2808.437 278.231 408.318
+ }
+ WC_704b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-704"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-704"
+   }
+  }
+  coords 3312.476 291.343 442.99
+ }
+ WC_705a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-705"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-705"
+   }
+  }
+  coords 2397.098 333.748 614.14
+ }
+ WC_706 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-706"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-706"
+   }
+  }
+  coords 2251.63 343.475 785.605
+ }
+ WC_705b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-705"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-705"
+   }
+  }
+  coords 2359.243 368.643 916.17
+ }
+ WC_707 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-707"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-707"
+   }
+  }
+  coords 2486.979 363.575 1234.123
+ }
+ WC_708 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-708"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-708"
+   }
+  }
+  coords 2600.13 325.607 1516.563
+ }
+ WC_709a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-709"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-709"
+   }
+  }
+  coords 2382.244 286.885 1623.987
+ }
+ WC_709b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-709"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-709"
+   }
+  }
+  coords 2690.991 269.26 1916.65
+ }
+ WC_710 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-710"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-710"
+   }
+  }
+  coords 2385.087 249.174 1911.406
+ }
+ WC_711 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-711"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-711"
+   }
+  }
+  coords 2202.458 235.307 1986.201
+ }
+ WC_712 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-712"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-712"
+   }
+  }
+  coords 2191.945 232.097 2177.13
+ }
+ WC_713 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-713"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-713"
+   }
+  }
+  coords 2020.038 213.353 2352.878
+ }
+ WC_714 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-714"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-714"
+   }
+  }
+  coords 2195.655 217.57 2370.134
+ }
+ WC_715 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-715"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-715"
+   }
+  }
+  coords 2507.181 240.817 2131.11
+ }
+ WC_716 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-716"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-716"
+   }
+  }
+  coords 2855.298 270.028 1781.805
+ }
+ WC_717 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-717"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-717"
+   }
+  }
+  coords 2978.02 265.911 1749.273
+ }
+ WC_718 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-718"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-718"
+   }
+  }
+  coords 3167.535 283.972 1471.016
+ }
+ WC_719 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-719"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-719"
+   }
+  }
+  coords 3061.799 305.613 1348.694
+ }
+ WC_720 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-720"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-720"
+   }
+  }
+  coords 2827.902 336.954 1328.444
+ }
+ WC_721a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-721"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-721"
+   }
+  }
+  coords 2686.881 329.222 1406
+ }
+ WC_721b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-721"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-721"
+   }
+  }
+  coords 2631.237 364.088 1150.039
+ }
+ WC_722 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-722"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-722"
+   }
+  }
+  coords 2828.033 381.75 1086.987
+ }
+ WC_723a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-723"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-723"
+   }
+  }
+  coords 2706.392 350.882 832.886
+ }
+ WC_724 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-724"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-724"
+   }
+  }
+  coords 2551.928 368.223 989.998
+ }
+ WC_723b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-723"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-723"
+   }
+  }
+  coords 2985.065 349.131 585.155
+ }
+ WC_723c {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-723"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-723"
+   }
+  }
+  coords 3440.634 360.843 667.47
+ }
+ WC_725 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-725"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-725"
+   }
+  }
+  coords 3135.002 385.802 810.441
+ }
+ WC_726 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-726"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-726"
+   }
+  }
+  coords 3117.631 387.954 731.141
+ }
+ WC_727 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-727"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-727"
+   }
+  }
+  coords 3550.612 281.019 97.95
+ }
+ WC_728 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-728"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-728"
+   }
+  }
+  coords 3695.365 268.146 330.628
+ }
+ WC_729 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-729"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-729"
+   }
+  }
+  coords 3624.445 285.611 422.29
+ }
+ WC_730 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-730"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-730"
+   }
+  }
+  coords 3638.577 307.304 549.588
+ }
+ WC_731 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-731"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-731"
+   }
+  }
+  coords 3642.781 345.606 700.094
+ }
+ WC_732 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-732"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-732"
+   }
+  }
+  coords 3656.531 367.072 824.951
+ }
+ WC_733 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-733"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-733"
+   }
+  }
+  coords 3251.067 257.836 154.211
+ }
+ WC_734 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-734"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-734"
+   }
+  }
+  coords 3105.354 337.171 1132.059
+ }
+ WC_735 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-735"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-735"
+   }
+  }
+  coords 3332.114 333.504 1103.98
+ }
+ WC_736 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-736"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-736"
+   }
+  }
+  coords 3370.727 314.608 1233.036
+ }
+ WC_737 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-737"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-737"
+   }
+  }
+  coords 3541.873 307.021 1225.412
+ }
+ WC_738 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-738"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-738"
+   }
+  }
+  coords 3570.206 332.202 1129.869
+ }
+ WC_739 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-739"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-739"
+   }
+  }
+  coords 3483.129 375.532 929.614
+ }
+ WC_740 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-740"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-740"
+   }
+  }
+  coords 3873.318 377.781 1119.582
+ }
+ WC_741 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-741"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-741"
+   }
+  }
+  coords 3492.058 313.995 1353.713
+ }
+ WC_742 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-742"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-742"
+   }
+  }
+  coords 3940.839 321.279 235.213
+ }
+ WC_743 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-743"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-743"
+   }
+  }
+  coords 3826.575 331.015 632.87
+ }
+ WC_744 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-744"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-744"
+   }
+  }
+  coords 4041.831 346.187 730.872
+ }
+ WC_745 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-745"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-745"
+   }
+  }
+  coords 4244.156 377.033 885.872
+ }
+ Bockswald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bockswald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bockswald"
+   }
+  }
+  coords 4290.235 418.508 1327.82
+ }
+ Bockswaldb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bockswald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bockswald"
+   }
+  }
+  coords 4701.395 377.37 1507.623
+ }
+ WC_747 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-747"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-747"
+   }
+  }
+  coords 4036.671 377.704 1191.152
+ }
+ WC_748 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-748"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-748"
+   }
+  }
+  coords 3874.518 360.529 1391.861
+ }
+ WC_749 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-749"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-749"
+   }
+  }
+  coords 4536.942 359.282 379.328
+ }
+ WC_750 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-750"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-750"
+   }
+  }
+  coords 4938.741 434.66 167.835
+ }
+ WC_751 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-751"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-751"
+   }
+  }
+  coords 4736.87 408.703 776.685
+ }
+ WC_752 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-752"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-752"
+   }
+  }
+  coords 5018.488 430.644 793.808
+ }
+ WC_753 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-753"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-753"
+   }
+  }
+  coords 4827.551 424.52 914.501
+ }
+ WC_754 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-754"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-754"
+   }
+  }
+  coords 4995.303 409.06 993.465
+ }
+ WC_755 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-755"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-755"
+   }
+  }
+  coords 4648.615 419.497 1060.292
+ }
+ WC_756 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-756"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-756"
+   }
+  }
+  coords 4565.333 424.221 1180.366
+ }
+ WC_757 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-757"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-757"
+   }
+  }
+  coords 4809.986 402.655 1247.526
+ }
+ WaldenWald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Waldenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Waldenwald"
+   }
+  }
+  coords 4671.658 424.292 1160.166
+ }
+ WC_758 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-758"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-758"
+   }
+  }
+  coords 5034.229 366.16 1398.479
+ }
+ WC_759 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-759"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-759"
+   }
+  }
+  coords 4932.247 329.42 1620.193
+ }
+ WC_746 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-746"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-746"
+   }
+  }
+  coords 4688.976 317.055 1794.245
+ }
+ WC_760 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-760"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-760"
+   }
+  }
+  coords 4358.093 377.934 1633.454
+ }
+ WC_761 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-761"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-761"
+   }
+  }
+  coords 4281.205 351.137 1773.813
+ }
+ WC_762 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-762"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-762"
+   }
+  }
+  coords 4063.792 375.212 1649.163
+ }
+ Sonnenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sonnenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sonnenwald"
+   }
+  }
+  coords 3416.978 347.168 1716.232
+ }
+ WC_763 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-763"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-763"
+   }
+  }
+  coords 3586.204 338.41 1452.823
+ }
+ WC_764 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-764"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-764"
+   }
+  }
+  coords 3171.822 294.605 1662.731
+ }
+ WC_765 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-765"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-765"
+   }
+  }
+  coords 3430.913 314.648 1996.882
+ }
+ WC_766 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-766"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-766"
+   }
+  }
+  coords 3403.26 330.896 2176.632
+ }
+ WC_767 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-767"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-767"
+   }
+  }
+  coords 2959.774 276.167 2050.307
+ }
+ WC_768 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-768"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-768"
+   }
+  }
+  coords 2994.642 312.304 2228.36
+ }
+ WC_769 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-769"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-769"
+   }
+  }
+  coords 3224.255 315.717 2137.89
+ }
+ WC_770 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-770"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-770"
+   }
+  }
+  coords 3235.792 339.389 2264.49
+ }
+ WC_771 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-771"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-771"
+   }
+  }
+  coords 3075.588 348.397 2396.267
+ }
+ WC_772 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-772"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-772"
+   }
+  }
+  coords 2864.938 331.189 2504.812
+ }
+ WC_773 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-773"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-773"
+   }
+  }
+  coords 2756.71 300.498 2383.323
+ }
+ WC_774 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-774"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-774"
+   }
+  }
+  coords 2588.463 262.402 2327.329
+ }
+ WC_775 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-775"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-775"
+   }
+  }
+  coords 2580.717 291.209 2463.916
+ }
+ WC_776 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-776"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-776"
+   }
+  }
+  coords 2654.558 315.451 2587.026
+ }
+ WC_777 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-777"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-777"
+   }
+  }
+  coords 2832.312 334.683 2670.135
+ }
+ Smallwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Smallwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Smallwald"
+   }
+  }
+  coords 2882.465 322.599 2739.815
+ }
+ Harschwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Harschwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Harschwald"
+   }
+  }
+  coords 3159.719 342.75 2500.333
+ }
+ Leberwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Leberwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Leberwald"
+   }
+  }
+  coords 2995.494 299.337 2877.648
+ }
+ Allenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Allenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Allenwald"
+   }
+  }
+  coords 3052.673 277.846 3153.709
+ }
+ Erstewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Erstewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Erstewald"
+   }
+  }
+  coords 2501.26 250.417 3059.951
+ }
+ WC_778 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-778"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-778"
+   }
+  }
+  coords 2389.617 233.76 3120.516
+ }
+ Tolwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Tolwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Tolwald"
+   }
+  }
+  coords 2255.869 244.584 3089.528
+ }
+ Kopwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kopwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kopwald"
+   }
+  }
+  coords 2555.238 221.729 3239.789
+ }
+ WC_779 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-779"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-779"
+   }
+  }
+  coords 2487.435 282.373 2663.538
+ }
+ WC_780 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-780"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-780"
+   }
+  }
+  coords 2152.994 272.255 2717.056
+ }
+ WC_781 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-781"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-781"
+   }
+  }
+  coords 2125.383 258.556 2650.677
+ }
+ WC_782 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-782"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-782"
+   }
+  }
+  coords 2167.048 254.193 2522.678
+ }
+ WC_783 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-783"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-783"
+   }
+  }
+  coords 1470.147 224.837 2472.589
+ }
+ WC_784 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-784"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-784"
+   }
+  }
+  coords 1463.758 274.479 2683.969
+ }
+ Linwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Linwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Linwald"
+   }
+  }
+  coords 1859.772 264.817 2846.46
+ }
+ WC_785 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-785"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-785"
+   }
+  }
+  coords 1798.557 276.276 2819.933
+ }
+ WC_786 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-786"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-786"
+   }
+  }
+  coords 1738.675 276.636 2724.673
+ }
+ WC_787 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-787"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-787"
+   }
+  }
+  coords 1677.875 286.637 2806.544
+ }
+ Squarewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Squarewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Squarewald"
+   }
+  }
+  coords 1705.995 283.998 2907.764
+ }
+ Sommersburg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sommersburg"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sommersburg"
+   }
+  }
+  coords 1059.56 272.87 2870.068
+ }
+ Sommersburgb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sommersburg"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sommersburg"
+   }
+  }
+  coords 1394.974 279.733 3013.472
+ }
+ WC_789 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-789"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-789"
+   }
+  }
+  coords 1049.499 262.109 2617.853
+ }
+ WC_790 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-790"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-790"
+   }
+  }
+  coords 968.782 191.604 2372.298
+ }
+ WC_791 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-791"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-791"
+   }
+  }
+  coords 974.471 225.938 2491.403
+ }
+ WC_792 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-792"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-792"
+   }
+  }
+  coords 775.725 185.949 2440.287
+ }
+ WC_793 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-793"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-793"
+   }
+  }
+  coords 814.306 224.731 2585.21
+ }
+ WC_794 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-794"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-794"
+   }
+  }
+  coords 635.061 182.537 2523.744
+ }
+ WC_795 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-795"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-795"
+   }
+  }
+  coords 644.312 212.376 2681.049
+ }
+ Grabenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Grabenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Grabenwald"
+   }
+  }
+  coords 748.846 236.055 2925.168
+ }
+ Hergerwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hergerwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hergerwald"
+   }
+  }
+  coords 757.733 205.208 3202.123
+ }
+ Hergerwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hergerwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hergerwald"
+   }
+  }
+  coords 1155.616 229.598 3223.294
+ }
+ Eichenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Eichenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Eichenwald"
+   }
+  }
+  coords 1835.594 234.95 3162.852
+ }
+ Eichenwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Eichenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Eichenwald"
+   }
+  }
+  coords 1636.417 280.611 3475.269
+ }
+ Eichenwald3 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Eichenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Eichenwald"
+   }
+  }
+  coords 1165.36 237.657 3676.564
+ }
+ WC_796 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-796"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-796"
+   }
+  }
+  coords 942.756 179.236 3876.298
+ }
+ WC_797 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-797"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-797"
+   }
+  }
+  coords 1711.283 164.185 4613.628
+ }
+ Lannenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Lannenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Lannenwald"
+   }
+  }
+  coords 1545.954 212.72 4873.989
+ }
+ WC_798 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-798"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-798"
+   }
+  }
+  coords 62.188 183.756 3955.677
+ }
+ WC_799 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-799"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-799"
+   }
+  }
+  coords 64.416 217.726 4773.278
+ }
+ Eisenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Eisenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Eisenwald"
+   }
+  }
+  coords 348.277 136.234 4248.481
+ }
+ Kinzigwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzigwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzigwald"
+   }
+  }
+  coords 689.841 137.008 4085.372
+ }
+ WC_800 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-800"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-800"
+   }
+  }
+  coords 948.171 138.634 5040.693
+ }
+ WC_801 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-801"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-801"
+   }
+  }
+  coords 1094.463 142.186 4994.268
+ }
+ WC_802 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-802"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-802"
+   }
+  }
+  coords 1272.18 154.665 5005.655
+ }
+ Buckewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Buckewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Buckewald"
+   }
+  }
+  coords 1119.212 144.524 4442.072
+ }
+ WC_803 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-803"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-803"
+   }
+  }
+  coords 2292.604 200.302 4912.611
+ }
+ WC_804 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-804"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-804"
+   }
+  }
+  coords 3034.882 225.494 4945.962
+ }
+ Krestwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Krestwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Krestwald"
+   }
+  }
+  coords 3837.898 261.528 4985.606
+ }
+ Apfulwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Apfulwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Apfulwald"
+   }
+  }
+  coords 4409.397 298.659 5069.658
+ }
+ Munsterwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Munsterwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Munsterwald"
+   }
+  }
+  coords 4670.493 251.155 4655.41
+ }
+ WC_805 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-805"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-805"
+   }
+  }
+  coords 4571.387 274.666 4878.765
+ }
+ Kuppewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kuppewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kuppewald"
+   }
+  }
+  coords 5057.604 296.339 5021.52
+ }
+ Norwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Norwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Norwald"
+   }
+  }
+  coords 4881.161 251.032 2760.284
+ }
+ Sorwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sorwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sorwald"
+   }
+  }
+  coords 4848.899 287.426 2180.224
+ }
+ Sorwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sorwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sorwald"
+   }
+  }
+  coords 5014.186 304.96 1878.708
+ }
+ Schuberwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schuberwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schuberwald"
+   }
+  }
+  coords 4388.075 259.402 2378.079
+ }
+ WC_806 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-806"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-806"
+   }
+  }
+  coords 4233.584 251.838 2490.323
+ }
+ WC_807 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-807"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-807"
+   }
+  }
+  coords 4567.665 253.937 2616.644
+ }
+ Zeigelwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Zeigelwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Zeigelwald"
+   }
+  }
+  coords 4361.529 229.041 3494.186
+ }
+ Splitwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Splitwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Splitwald"
+   }
+  }
+  coords 3948.832 203.837 3783.574
+ }
+ Jugfwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Jugfwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Jugfwald"
+   }
+  }
+  coords 3413.526 218.439 4003.378
+ }
+ Klippwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Klippwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Klippwald"
+   }
+  }
+  coords 3095.645 210.704 4145.079
+ }
+ WC_808 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-808"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-808"
+   }
+  }
+  coords 2766.062 213.274 4140.455
+ }
+ Plaumwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Plaumwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Plaumwald"
+   }
+  }
+  coords 2567.67 196.499 3703.389
+ }
+ Schinkwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schinkwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schinkwald"
+   }
+  }
+  coords 2960.861 215.265 3633.754
+ }
+ Triwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Triwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Triwald"
+   }
+  }
+  coords 2353.341 186.154 3694.817
+ }
+ Doswald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Doswald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Doswald"
+   }
+  }
+  coords 2283.901 207.979 3814.885
+ }
+ Unowald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Unowald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Unowald"
+   }
+  }
+  coords 2084.97 185.152 3751.326
+ }
+ WC_809 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-809"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-809"
+   }
+  }
+  coords 2736.929 187.587 4701.165
+ }
+ WC_810 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-810"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-810"
+   }
+  }
+  coords 3355.4 248.249 3386.302
+ }
+ WC_811 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-811"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-811"
+   }
+  }
+  coords 3953.969 310.341 3160.865
+ }
+ Quadwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Quadwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Quadwald"
+   }
+  }
+  coords 3667.978 321.558 2417.757
+ }
+ Huhnerwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Huhnerwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Huhnerwald"
+   }
+  }
+  coords 3831.517 339.037 1934.889
+ }
+ Lomelwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Lomelwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Lomelwald"
+   }
+  }
+  coords 4935.656 245.466 4176.12
+ }
+ Kinnwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinnwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinnwald"
+   }
+  }
+  coords 4825.619 278.222 4452.313
+ }
+ Funfwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Funfwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Funfwald"
+   }
+  }
+  coords 4368.061 181.068 4186.5
+ }
+ WC_812 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-812"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-812"
+   }
+  }
+  coords 2590.068 191.138 4267.273
+ }
+ WC_813 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-813"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-813"
+   }
+  }
+  coords 2449.817 210.871 4114.245
+ }
+ WC_814 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-814"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-814"
+   }
+  }
+  coords 2948.23 256.556 3327.15
+ }
+ WC_815 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-815"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-815"
+   }
+  }
+  coords 1964.415 171.827 3976.122
+ }
+ WC_816 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-816"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-816"
+   }
+  }
+  coords 1865.395 159.171 3999.723
+ }
+}
+$grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_addon_fd_fd.et" {
+ {
+  coords 4551.082 6.819 3882.497
+  angleY -165
+ }
+ {
+  coords 4513.065 6.634 3909.648
+  angleY 133
+ }
+ {
+  coords 4500.313 6.164 3914.349
+  angleY -161
+ }
+ {
+  coords 4471.305 6.474 3924.664
+  angleY 147
+ }
+ {
+  coords 4454.605 6.992 3930.496
+  angleY -111
+ }
+ {
+  coords 4660.718 6.995 3862.293
+  angleY -164
+ }
+ {
+  coords 4681.065 6.914 3849.998
+  angleY -135
+ }
+ {
+  coords 4695.253 6.023 3842.65
+  angleY -180
+ }
+ {
+  coords 4707.787 6.414 3840.78
+  angleY -46
+ }
+ {
+  coords 4731.111 6.544 3828.559
+  angleY 180
+ }
+ {
+  coords 4775.744 6.59 3792.498
+  angleY -105
+ }
+ {
+  coords 4791.588 6.717 3775.687
+  angleY -139
+ }
+ {
+  coords 4819.709 6.816 3746.433
+  angleY -106
+ }
+ {
+  coords 4847.5 6.73 3715.043
+  angleY -128
+ }
+ {
+  coords 4873.347 6.682 3690.482
+  angleY 35
+ }
+ {
+  coords 4911.09 6.298 3662.424
+  angleY -26
+ }
+ {
+  coords 4888.301 6.53 3654.319
+  angleY 146
+ }
+ {
+  coords 4781.112 6.35 3615.509
+  angleY 135
+ }
+ {
+  coords 4749.25 6.562 3580.198
+  angleY 135
+ }
+ {
+  coords 4724.33 6.481 3554.801
+  angleY 135
+ }
+ {
+  coords 4710.642 6.387 3540.606
+  angleY 135
+ }
+ {
+  coords 4688.323 6.192 3517.699
+  angleY 109.145
+ }
+ {
+  coords 4704.369 6.575 3501.657
+  angleY 50
+ }
+ {
+  coords 4728.887 6.515 3494.246
+  angleY 12
+ }
+ {
+  coords 4747.808 6.906 3488.628
+  angleY 12
+ }
+ {
+  coords 4757.703 6.253 3483.581
+  angleY 35
+ }
+ {
+  coords 4785.944 6.118 3473.776
+  angleY 32
+ }
+ {
+  coords 4806.121 6.322 3465.733
+  angleY 24
+ }
+ {
+  coords 4818.851 7.471 3462.229
+  angleY 23
+ }
+ {
+  coords 4845.581 6.802 3451.293
+  angleY 23
+ }
+ {
+  coords 4857.52 6.185 3445.871
+  angleY 32
+ }
+ {
+  coords 4881.087 6.416 3430.618
+  angleY 32
+ }
+ {
+  coords 4914.726 6.081 3404.628
+  angleY 32
+ }
+ {
+  coords 4807.906 7.033 3647.101
+  angleY 134
+ }
+ {
+  coords 4945.242 3.148 3420.304
+  angleY -130
+ }
+ {
+  coords 4680.465 6.501 3427.492
+  angleY 90
+ }
+ {
+  coords 4690.277 6.232 3457.805
+  angleY 108
+ }
+ {
+  coords 4665.142 6.338 3404.213
+  angleY 116
+ }
+ {
+  coords 4722.335 7.207 3412.791
+  angleY -108.761
+ }
+ {
+  coords 4328.239 6.598 4343.775
+  angleY 56
+ }
+ {
+  coords 4303.263 6.894 4362.976
+  angleY 72
+ }
+ {
+  coords 4289.818 7.794 4348.284
+  angleY 135
+ }
+ {
+  coords 4262.499 7.642 4335.422
+  angleY 46
+ }
+ {
+  coords 4227.934 7.08 4350.352
+  angleY 33
+ }
+ {
+  coords 4190.743 6.169 4372.965
+  angleY 135
+ }
+ {
+  coords 4350.981 7.165 4321.107
+  angleY 34
+ }
+ {
+  coords 4313.46 6.325 4385.928
+  angleY 93
+ }
+ {
+  coords 4349.364 6.619 4404.854
+  angleY -119
+ }
+ {
+  coords 4325.462 3.429 4439.62
+  angleY -92
+ }
+ {
+  coords 4339.584 7.141 4490.431
+  angleY -62
+ }
+ {
+  coords 4222.071 6.336 4337.26
+  angleY -111
+ }
+ {
+  coords 4166.561 6.153 2100.629
+  angleY 28
+ }
+ {
+  coords 4141.138 4.333 2061.96
+  angleY -147
+ }
+ {
+  coords 3708.063 7.559 1719.174
+ }
+ {
+  coords 3731.905 5.664 1679.166
+  angleY 142
+ }
+ {
+  coords 3493.173 6.213 2828.524
+  angleY 23
+ }
+ {
+  coords 3518.47 5.687 3559.309
+  angleY 103
+ }
+ {
+  coords 3448.14 6.703 3564.51
+  angleY -123
+ }
+ {
+  coords 3430.153 6.328 3563.753
+  angleY 169
+ }
+ {
+  coords 3263.844 5.365 3356.129
+  angleY 163
+ }
+ {
+  coords 3210.204 5.612 3311.045
+  angleY 163
+ }
+ {
+  coords 3199.342 5.929 3355.607
+  angleY 9
+ }
+ {
+  coords 3258.272 5.201 3372.057
+  angleY -14
+ }
+ {
+  coords 2073.34 6.277 2831.035
+  angleY -74
+ }
+ {
+  coords 2088.945 4.959 2823.241
+  angleY 115
+ }
+}
+$grp GenericEntity : "{A9FC9D2A3C13C954}Prefabs/Structures/Infrastructure/Lamps/Lamp1/LampStreet_E_01_6m_fd_fd.et" {
+ {
+  coords 4785.27 0 3516.579
+ }
+ {
+  coords 4781.939 0 3530.653
+ }
+ {
+  coords 4769.155 0 3529.743
+ }
+ {
+  coords 4746.086 0 3517.285
+ }
+ {
+  coords 4739.025 0 3507.217
+ }
+ {
+  coords 4718.165 0 3512.174
+ }
+ {
+  coords 4726.241 0 3540.04
+ }
+ {
+  coords 4737.854 0 3538.865
+ }
+ {
+  coords 4759.329 0 3545.366
+ }
+ {
+  coords 4771.833 0 3556.514
+ }
+ {
+  coords 4799.074 0 3546.339
+ }
+ {
+  coords 4814.902 0 3561.492
+ }
+ {
+  coords 4741.189 0 3593.064
+ }
+ {
+  coords 4717.622 -0.001 3616.578
+ }
+ {
+  coords 4728.936 0 3605.416
+ }
+ {
+  coords 4748.057 0 3623.075
+ }
+ {
+  coords 4724.89 0 3628.976
+ }
+ {
+  coords 4725.368 0 3649.134
+ }
+ {
+  coords 4713.133 0 3636.22
+ }
+ {
+  coords 4787.728 -0.001 3582.792
+ }
+ {
+  coords 4782.743 0 3577.25
+ }
+ {
+  coords 4798.875 0.001 3584.085
+ }
+ {
+  coords 4909.378 0 3483.003
+ }
+ {
+  coords 4920.1 0 3473.45
+ }
+}
+$grp GenericEntity : "{EFFDE72E34C54BC0}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_doubleStraight_fd_fd.et" {
+ {
+  coords 4476.182 0 3849.267
+  angleY -75
+ }
+ {
+  coords 3853.633 0 4110.778
+  angleY 22
+ }
+ {
+  coords 3828.181 0 4123.663
+  angleY 22
+ }
+}

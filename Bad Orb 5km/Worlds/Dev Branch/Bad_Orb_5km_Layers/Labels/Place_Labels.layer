@@ -1,0 +1,325 @@
+$grp GenericEntity {
+ Westen_Bad_Orb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Westen Bad Orb"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Westen Bad Orb"
+    MainType "Name Town"
+   }
+  }
+  coords 4789.091 198.087 3571.895
+ }
+ Wasserversorgung_Bad_Orb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Wasserversorgung Bad Orb"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Wasserversorgung Bad Orb"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3406.812 177.802 4456.189
+ }
+ Hof_Lomelsberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hof Lomelsberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hof Lomelsberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 1785.539 178.947 4066.207
+ }
+ Ruckberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Ruckberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Ruckberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 2305.546 238.872 3985.696
+ }
+ Allenburg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Allenburg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Allenburg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3246.948 257.911 3331.795
+ }
+ Kasselberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kasselberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kasselberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3490.555 332.883 2838.655
+ }
+ Huhnerberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Huhnerberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Huhnerberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3711.327 369.271 1984.825
+ }
+ Sonnenberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sonnenberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sonnenberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3740.186 371.678 1712.822
+ }
+ Bocksberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bocksberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bocksberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 4453.958 367.34 1720.837
+ }
+ Schubert_Ranch {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schubert Ranch"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schubert Ranch"
+    MainType "Name Settlement"
+   }
+  }
+  coords 4373.039 245.923 2566.061
+ }
+ Ersteberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Ersteberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Ersteberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 2019.707 281.896 2842.962
+ }
+ Funf_wege {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Funf-Wege"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Funf-Wege"
+    MainType "Name Village"
+   }
+  }
+  coords 4324.878 213.155 4359.764
+ }
+ Forstfahrzeug_Wartungshof {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Forstfahrzeug-Wartungshof"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Forstfahrzeug-Wartungshof"
+    MainType "Name Local"
+   }
+  }
+  coords 4415.153 262.982 4815.916
+ }
+ Bad_Orb_Spielfeld {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bad Orb Spielfeld"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bad Orb Spielfeld"
+    MainType "Name Local"
+   }
+  }
+  coords 3851.228 176.166 4139.517
+ }
+ Krestberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Krestberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Krestberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3593.682 252.193 4973
+ }
+ Wasserberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Wasserberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Wasserberg"
+    MainType "Name Settlement"
+   }
+  }
+  coords 3485.785 288.396 3578.829
+ }
+ Mittbach {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Mittbach"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Mittbach"
+    MainType "Name Settlement"
+   }
+  }
+  coords 450.279 149.515 5091.225
+ }
+ Kassel {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kassel"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kassel"
+    MainType "Name Town"
+   }
+  }
+  coords 213.362 155.711 888.85
+ }
+ "FM_93.3" {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "FM 93.3"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "FM 93.3"
+    MainType "Name Settlement"
+   }
+  }
+  coords 1341.62 262.692 3631.305
+ }
+}

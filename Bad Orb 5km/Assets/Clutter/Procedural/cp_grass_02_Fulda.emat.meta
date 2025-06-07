@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{498B94B95D92B4CD}Assets/Clutter/Procedural/cp_grass_02_Fulda.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

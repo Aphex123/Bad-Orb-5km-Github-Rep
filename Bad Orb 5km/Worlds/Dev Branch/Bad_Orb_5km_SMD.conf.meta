@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{24FE3DC0FEF66479}Worlds/Dev Branch/Bad_Orb_5km_SMD.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

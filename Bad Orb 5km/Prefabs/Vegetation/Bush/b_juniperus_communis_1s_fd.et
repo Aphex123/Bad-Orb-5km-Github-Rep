@@ -1,0 +1,30 @@
+Tree : "{D7163D1B571F4C0C}Prefabs/Vegetation/Core/Bush_Base.et" {
+ ID "2272273384468550"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   Object "{8B6156C5F549484E}Assets/Vegetation/Bush/Juniperus_Communis/b_Juniperus_communis_1s.xob"
+   LODFactors {
+    100 12 4 4 4
+   }
+  }
+  RigidBody "{4EFA6762916D17E5}" {
+   ResponseIndex "MediumDestructible"
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ MaxHealth 500
+ FirstDestructionPhase SCR_BaseDestructionPhase "{650D1D3BE2DDD1DE}" {
+  m_aPhaseDestroySpawnObjects {
+   SCR_DebrisSpawnable "{5EB0D2F7F318A546}" : "{710B25EBF5D059FF}Configs/Destruction/TreeDestruction/FX_Debris/FX_Debris_Tree_Small.conf" {
+    m_ModelPrefabs {
+     "{60CF304FF3C4D34D}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_1s_dst_top01.xob" "{F9D189D6EE23E2DD}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_1s_dst_top02.xob" "{8EDBE15E1A810DAD}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_1s_dst_top03.xob" "{891C1B0F7C07B76E}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_1s_dst_top04.xob"
+    }
+    m_fMass 100
+   }
+  }
+ }
+ LastDestructionPhase SCR_BaseDestructionPhase "{650D1D3BE2DDD1C1}" {
+  m_sPhaseModel "{207AA25AF3057A6B}Assets/Vegetation/Bush/Juniperus_Communis/Dst/b_juniperus_communis_1s_dst_base.xob"
+ }
+}
