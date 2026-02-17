@@ -1,0 +1,7 @@
+GenericEntity : "{18982CB5D0D29247}Prefabs/Props/Civilian/BeerBottle_01_empty_brown.et" {
+ coords 4196.494 193.168 4408.081
+ angles -89.362 180 -180
+}
+GenericEntity : "{88FAE04EF7115814}Prefabs/Props/Civilian/BeerBottle_01_green.et" {
+ coords 4196.694 193.133 4408.363
+}
