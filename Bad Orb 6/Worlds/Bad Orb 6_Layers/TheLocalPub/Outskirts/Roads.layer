@@ -1,0 +1,51 @@
+SplineShapeEntity {
+ coords 5491.17 321.809 941.802
+ Points {
+  ShapePoint "{68DB044E24133581}" {
+   Position 2.137 -0.457 -4.906
+  }
+  ShapePoint "{68DB044E7357845B}" {
+   Position 1.296 0.664 3.235
+   Data {
+    SplinePointData SplinePointData {
+     InTangent -0.382 0.795 6.25
+     OutTangent -0.57 1.186 9.325
+    }
+   }
+  }
+  ShapePoint "{68DB044E241302F2}" {
+   Position 1.379 1.961 12.858
+  }
+ }
+ {
+  RoadGeneratorEntity : "{0032466D94C588E7}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Forest_01_fd_fd.et" {
+   coords 0 0 0
+   {
+    RoadEntity {
+     ID "55F85D16D1C7EB8E"
+     SplinePoints {
+      ShapePoint "{556C65561A62B78A}" {
+       Position 2.137 -0.457 -4.906
+      }
+      ShapePoint "{556C65561A62EBA9}" {
+       Position 1.296 0.664 3.235
+       Data {
+        SplinePointData "{00000000D8F1BA4F}" {
+         InTangent -0.382 0.795 6.25
+         OutTangent -0.57 1.186 9.325
+        }
+       }
+      }
+      ShapePoint "{68DB044E70ADD9B8}" {
+       Position 1.379 1.961 12.858
+      }
+     }
+     IsClosedSpline 0
+     Width 3.25
+     BeginningPiece "1st version"
+     EndPiece none
+    }
+   }
+  }
+ }
+}

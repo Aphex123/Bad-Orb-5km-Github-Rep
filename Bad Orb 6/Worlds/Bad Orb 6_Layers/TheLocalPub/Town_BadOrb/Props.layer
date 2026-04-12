@@ -1,0 +1,118 @@
+SCR_DestructibleBuildingEntity : "{11219C5E9D717E14}Prefabs/Structures/Infrastructure/Waterworks/WaterTreatmentPlant_01/WaterTreatmentPlant_01_small.et" {
+ coords 5324.471 178.55 3167.687
+}
+SCR_DestructibleBuildingEntity : "{2A0DFE1E88D6D508}Prefabs/Structures/Houses/Village/House_Village_E_1L03/House_Village_E_1L03t_yellow.et" {
+ coords 5525.61 1.12 3251.754
+ angles 0 -176.234 0
+}
+SCR_DestructibleBuildingEntity : "{322D245123EEDC90}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_V2.et" {
+ coords 5696.707 0.559 3139.638
+ angles 0 -121.89 0
+}
+$grp SCR_DestructibleEntity : "{419A31406081524B}PrefabLibrary/DefaultLibrary/Props/Civilian/Sport/FootballNetFence_01_15m.et" {
+ {
+  coords 5612.376 0.046 3529.104
+  angles 0 -89.837 0
+ }
+ {
+  coords 5612.42 0.043 3544.604
+  angles 0 -89.837 0
+ }
+ {
+  coords 5756.932 0 3544.581
+  angles 0 90.163 0
+ }
+ {
+  coords 5756.888 0 3529.081
+  angles 0 90.163 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{42959A29753486F5}Prefabs/Structures/Infrastructure/Waterworks/WaterStation_01/WaterStation_01_Uncovered.et" {
+ coords 5336.56 0 3156.032
+}
+SCR_DestructibleBuildingEntity : "{5535BC6973669868}Prefabs/Structures/Infrastructure/Waterworks/WaterStation_02/WaterStation_USSR_02_brick.et" {
+ coords 5334.173 -0.049 3165.853
+ angles 0 -17.196 0
+}
+StaticModelEntity : "{69C0826D0263EB72}Prefabs/Structures/Airport/AirfieldPipeline_01/AirfieldPipeline_01_pump.et" {
+ coords 5214.928 170.102 3288.133
+ angles 0 -155.124 0
+ scale 0.85
+}
+$grp GenericEntity : "{6B0010136E4CDFEE}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V2_USSR.et" {
+ {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_sDefaultMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
+   }
+  }
+  coords 5616.051 180.75 3580.5
+  angles 0 -172.141 0
+  scale 0.3
+ }
+ {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_sDefaultMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
+   }
+  }
+  coords 5616.051 180.719 3493.5
+  angles 0 11.364 0
+  scale 0.3
+ }
+ {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_sDefaultMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
+   }
+  }
+  coords 5751.593 180.875 3492
+  angles 0 9.392 0
+  scale 0.3
+ }
+ {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_sDefaultMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
+   }
+  }
+  coords 5753.99 181.292 3584
+  angles 0 -167.103 0
+  scale 0.3
+ }
+}
+SCR_DestructibleBuildingEntity : "{728F2D7CD93D3D1D}Prefabs/Structures/Infrastructure/Waterworks/WaterReservoir_01/WaterReservoir_01.et" {
+ coords 5321.158 177.445 3186.26
+ angles 0 55.871 0
+}
+$grp GenericEntity : "{777E723C6902DB47}Prefabs/Structures/Civilian/SportGrounds/GoalPost_01.et" {
+ {
+  coords 5615.723 180.75 3536.689
+  angles 0 90.232 0
+ }
+ {
+  coords 5753.074 180.751 3536.689
+  angles 0 -88.235 0
+ }
+}
+StaticModelEntity : "{783A0981DA761AA9}Prefabs/Structures/Airport/AirfieldPipeline_01/AirfieldPipeline_01_end.et" {
+ coords 5213.95 170.063 3288.78
+ angles 0 113.591 0
+ scale 1.4
+}
+SCR_DestructibleBuildingEntity : "{7852CB59DD14F826}Prefabs/Structures/Military/Houses/HospitalMilitary_E_01/HospitalMilitary_USSR_01.et" {
+ coords 5511.36 187.398 3085.769
+ angles 0 -175.339 0
+}
+SCR_DestructibleBuildingEntity : "{788F0C1721D815B9}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge_wide.et" {
+ coords 5309.066 1.352 2947.315
+ angles 0 -61.807 0
+}
+SCR_DestructibleBuildingEntity : "{8DF7F603987CC4A7}Prefabs/Structures/Infrastructure/Waterworks/WaterTreatmentPlant_01/WaterTreatmentPlant_01_main.et" {
+ coords 5297.514 177.136 3204.294
+ angles 0 -43.499 0
+}
+SCR_DestructibleBuildingEntity : "{94F87783CE3C2D13}Prefabs/Structures/Commercial/Shops/ShopModern_E_01/ShopModern_USSR_01_cafe.et" {
+ coords 5358.144 1.277 2848.14
+ angles 0 -113.063 0
+}

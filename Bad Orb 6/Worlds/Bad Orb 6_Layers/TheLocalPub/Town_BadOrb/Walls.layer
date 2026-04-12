@@ -1,0 +1,986 @@
+$grp PolylineShapeEntity {
+ {
+  coords 5757.521 181.673 3489.315
+  Points {
+   ShapePoint "{68E3194C26C51E9C}" {
+    Position 0 0 0
+   }
+   ShapePoint "{68E3194C26C50637}" {
+    Position 2.248 0.045 97.317
+   }
+   ShapePoint "{68E3194C516C2B41}" {
+    Position -64.651 -0.889 95.712
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{78A5D964C7732D51}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m_End.et" {
+      coords -62.718 -0.884 95.764
+      angles 0 -181.515 0
+     }
+     $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_4m.et" {
+      {
+       coords 0 0.003 -0.01
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.115 -0.777 4.989
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.231 -0.899 9.988
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.346 -0.895 14.987
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.462 -0.923 19.986
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.577 -0.919 24.985
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.692 -0.923 29.984
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.808 -0.923 34.983
+       angles 0 -88.677 0
+      }
+      {
+       coords 0.923 -0.923 39.982
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.039 -0.923 44.981
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.154 -0.923 49.98
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.27 -0.923 54.979
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.385 -0.923 59.978
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.501 -0.922 64.977
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.616 -0.918 69.977
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.732 -0.891 74.976
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.847 -0.88 79.975
+       angles 0 -88.677 0
+      }
+      {
+       coords 1.962 -0.845 84.974
+       angles 0 -88.677 0
+      }
+      {
+       coords 2.078 -0.76 89.973
+       angles 0 -88.677 0
+      }
+      {
+       coords 2.261 0.082 97.482
+       angles 0 -181.515 0
+      }
+      {
+       coords -2.737 -0.169 97.349
+       angles 0 -181.515 0
+      }
+      {
+       coords -7.736 -0.304 97.217
+       angles 0 -181.515 0
+      }
+      {
+       coords -12.734 -0.391 97.085
+       angles 0 -181.515 0
+      }
+      {
+       coords -17.733 -0.432 96.953
+       angles 0 -181.515 0
+      }
+      {
+       coords -22.731 -0.449 96.821
+       angles 0 -181.515 0
+      }
+      {
+       coords -27.73 -0.515 96.689
+       angles 0 -181.515 0
+      }
+      {
+       coords -32.728 -0.572 96.557
+       angles 0 -181.515 0
+      }
+      {
+       coords -37.727 -0.628 96.424
+       angles 0 -181.515 0
+      }
+      {
+       coords -42.725 -0.703 96.292
+       angles 0 -181.515 0
+      }
+      {
+       coords -47.724 -0.723 96.16
+       angles 0 -181.515 0
+      }
+      {
+       coords -52.722 -0.792 96.028
+       angles 0 -181.515 0
+      }
+      {
+       coords -57.721 -0.871 95.896
+       angles 0 -181.515 0
+      }
+     }
+     SCR_DestructibleEntity : "{DE4E66A463783EF6}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m.et" {
+      coords 2.193 -0.404 94.972
+      angles 0 -88.677 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5757.521 181.673 3489.315
+  Points {
+   ShapePoint "{68E3194C516C2B41}" {
+    Position -71.05 -0.89 95.712
+   }
+   ShapePoint "{68E3194CBF852725}" {
+    Position -147.632 -0.923 93.974
+   }
+   ShapePoint "{68E3194CA520C717}" {
+    Position -147.144 -1.22 1.93
+   }
+   ShapePoint "{68E3194C9D37BEC0}" {
+    Position -72.577 -0.883 0.545
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{78A5D964C7732D51}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m_End.et" {
+      coords -72.161 -0.875 0.54
+      angles 0 0.741 0
+     }
+     $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_4m.et" {
+      {
+       coords -71.04 -0.89 95.713
+       angles 0 -181.301 0
+      }
+      {
+       coords -76.039 -0.894 95.599
+       angles 0 -181.301 0
+      }
+      {
+       coords -81.038 -0.897 95.486
+       angles 0 -181.301 0
+      }
+      {
+       coords -86.037 -0.901 95.372
+       angles 0 -181.301 0
+      }
+      {
+       coords -91.036 -0.905 95.259
+       angles 0 -181.301 0
+      }
+      {
+       coords -96.035 -0.908 95.145
+       angles 0 -181.301 0
+      }
+      {
+       coords -101.034 -0.912 95.032
+       angles 0 -181.301 0
+      }
+      {
+       coords -106.033 -0.915 94.918
+       angles 0 -181.301 0
+      }
+      {
+       coords -111.032 -0.919 94.805
+       angles 0 -181.301 0
+      }
+      {
+       coords -116.032 -0.922 94.691
+       angles 0 -181.301 0
+      }
+      {
+       coords -121.031 -0.923 94.578
+       angles 0 -181.301 0
+      }
+      {
+       coords -126.03 -0.923 94.464
+       angles 0 -181.301 0
+      }
+      {
+       coords -131.029 -0.923 94.351
+       angles 0 -181.301 0
+      }
+      {
+       coords -136.028 -0.923 94.237
+       angles 0 -181.301 0
+      }
+      {
+       coords -141.027 -0.923 94.124
+       angles 0 -181.301 0
+      }
+      {
+       coords -146.036 -0.923 94.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.096 -0.923 89.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.156 -0.923 84.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.216 -0.944 79.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.277 -0.977 74.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.337 -1.005 69.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.397 -1.012 64.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.457 -1.043 59.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.517 -1.078 54.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.577 -1.115 49.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.638 -1.125 44.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.698 -1.132 39.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.758 -1.108 34.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.818 -1.107 29.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.878 -1.081 24.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.938 -1.055 19.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -146.999 -1.046 14.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -147.059 -1.019 9.02
+       angles 0 -269.311 0
+      }
+      {
+       coords -147.159 -1.271 1.51
+       angles 0 0.741 0
+      }
+      {
+       coords -142.159 -1.147 1.445
+       angles 0 0.741 0
+      }
+      {
+       coords -137.159 -1.148 1.381
+       angles 0 0.741 0
+      }
+      {
+       coords -132.159 -1.125 1.316
+       angles 0 0.741 0
+      }
+      {
+       coords -127.159 -1.119 1.251
+       angles 0 0.741 0
+      }
+      {
+       coords -122.159 -1.114 1.187
+       angles 0 0.741 0
+      }
+      {
+       coords -117.16 -1.083 1.122
+       angles 0 0.741 0
+      }
+      {
+       coords -112.16 -1.056 1.057
+       angles 0 0.741 0
+      }
+      {
+       coords -107.16 -1.017 0.992
+       angles 0 0.741 0
+      }
+      {
+       coords -102.16 -0.977 0.928
+       angles 0 0.741 0
+      }
+      {
+       coords -97.16 -0.948 0.863
+       angles 0 0.741 0
+      }
+      {
+       coords -92.16 -0.923 0.798
+       angles 0 0.741 0
+      }
+      {
+       coords -87.16 -0.923 0.734
+       angles 0 0.741 0
+      }
+      {
+       coords -82.16 -0.891 0.669
+       angles 0 0.741 0
+      }
+      {
+       coords -77.16 -0.889 0.604
+       angles 0 0.741 0
+      }
+     }
+     SCR_DestructibleEntity : "{DE4E66A463783EF6}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m.et" {
+      coords -147.119 -1.074 4.02
+      angles 0 -269.311 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5757.521 181.673 3489.315
+  Points {
+   ShapePoint "{68E3194C9D37BEC0}" {
+    Position -62.473 -0.811 0.545
+   }
+   ShapePoint "{68E3194C892D5AEB}" {
+    Position 0.074 0.041 -0.146
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{78A5D964C7732D51}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m_End.et" {
+      coords -2.488 -0.065 -0.118
+      angles 0 0.633 0
+     }
+     $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_4m.et" {
+      {
+       coords -7.487 -0.181 -0.063
+       angles 0 0.633 0
+      }
+      {
+       coords -12.487 -0.249 -0.007
+       angles 0 0.633 0
+      }
+      {
+       coords -17.486 -0.275 0.048
+       angles 0 0.633 0
+      }
+      {
+       coords -22.486 -0.308 0.103
+       angles 0 0.633 0
+      }
+      {
+       coords -27.485 -0.369 0.158
+       angles 0 0.633 0
+      }
+      {
+       coords -32.485 -0.382 0.214
+       angles 0 0.633 0
+      }
+      {
+       coords -37.485 -0.394 0.269
+       angles 0 0.633 0
+      }
+      {
+       coords -42.484 -0.447 0.324
+       angles 0 0.633 0
+      }
+      {
+       coords -47.484 -0.552 0.379
+       angles 0 0.633 0
+      }
+      {
+       coords -52.483 -0.663 0.435
+       angles 0 0.633 0
+      }
+      {
+       coords -57.483 -0.741 0.49
+       angles 0 0.633 0
+      }
+      {
+       coords -62.483 -0.811 0.545
+       angles 0 0.633 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5696.669 181.326 3487.872
+  angles 0 0.777 0
+  Points {
+   ShapePoint "{68E31952B9C2EBDC}" {
+    Position 3.425 0.212 -0.405
+   }
+   ShapePoint "{68E31952B9C1767F}" {
+    Position -13.071 -0.24 -0.497
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{78A5D964C7732D51}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m_End.et" {
+      coords -11.559 -0.214 -0.488
+      angles 0 -180.318 0
+     }
+     $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_4m.et" {
+      {
+       coords 3.435 0.212 -0.405
+       angles 0 -180.318 0
+      }
+      {
+       coords -1.564 0.055 -0.433
+       angles 0 -180.318 0
+      }
+      {
+       coords -6.562 -0.083 -0.46
+       angles 0 -180.318 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5694.32 181.008 3587.649
+  angles 0 -0.741 0
+  Points {
+   ShapePoint "{68E31952B9C2EBDC}" {
+    Position 3.425 0.212 -0.405
+   }
+   ShapePoint "{68E31952B9C1767F}" {
+    Position -13.071 -0.24 -0.497
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{78A5D964C7732D51}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_2m_End.et" {
+      coords -11.559 -0.214 -0.488
+      angles 0 -180.318 0
+     }
+     $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_4m.et" {
+      {
+       coords 3.435 0.212 -0.405
+       angles 0 -180.318 0
+      }
+      {
+       coords -1.564 0.055 -0.433
+       angles 0 -180.318 0
+      }
+      {
+       coords -6.562 -0.083 -0.46
+       angles 0 -180.318 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5553.627 189.602 3168.629
+  Points {
+   ShapePoint "{68E33CD5F70A32F5}" {
+    Position -1.631 -0.071 0.072
+   }
+   ShapePoint "{68E33CD5F70A262C}" {
+    Position 4.313 1.581 105.464
+   }
+   ShapePoint "{68E33CD66A336ECF}" {
+    Position -8.083 -0.375 107.202
+   }
+   ShapePoint "{68E33CD66B43E01B}" {
+    Position -28.403 -3.145 110.09
+   }
+   ShapePoint "{68E33CD669BB051F}" {
+    Position -54.173 -4.477 114.101
+   }
+   ShapePoint "{68E33CD66945ADCF}" {
+    Position -84.9 -5.155 118.585
+   }
+   ShapePoint "{68E33CD61C38DCBD}" {
+    Position -108.799 -6.01 122.31
+   }
+   ShapePoint "{68E33CD60B99E479}" {
+    Position -129.922 -8.427 -129.093
+   }
+   ShapePoint "{68E33CD609EED956}" {
+    Position -9.395 -3.168 -134.518
+   }
+   ShapePoint "{68E33CD60CF2D400}" {
+    Position -2.021 0.393 -6.548
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{7100CD51E9E2CC67}Prefabs/WEGenerators/Walls/Brick/WG_BrickWall_02.et" {
+    Flags 0x100003 0
+    m_iSeed 32
+    {
+     $grp SCR_DestructibleEntity : "{358B3FF55BA04C88}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_4m.et" {
+      {
+       coords 4.017 1.443 100.215
+       angles 0 -86.772 0
+      }
+      {
+       coords -3.082 0.49 106.027
+       angles 0 -166.782 0
+      }
+      {
+       coords -22.153 -2.486 109.173
+       angles 0 -171.655 0
+      }
+      {
+       coords -2.331 0.182 -11.004
+       angles 0 -86.024 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{4546AD2CC984193B}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_2m.et" {
+      {
+       coords -25.955 -2.913 109.731
+       angles 0 -171.655 0
+      }
+      {
+       coords -50.934 -4.445 113.597
+       angles 0 -171.161 0
+      }
+      {
+       coords -106.901 -5.963 122.015
+       angles 0 -171.161 0
+      }
+      {
+       coords -129.751 -8.403 -127.033
+       angles 0 -265.228 0
+      }
+      {
+       coords -12.965 -3.147 -134.357
+       angles 0 2.581 0
+      }
+     }
+     SCR_DestructibleEntity : "{4EF4686F9F99FE80}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_Pole.et" {
+      coords -2.065 0.388 -7.178
+      angles 0 -86.024 0
+     }
+     $grp SCR_DestructibleEntity : "{A86BB734C60AEF9C}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_4m_D.et" {
+      {
+       coords 2.323 0.072 70.182
+       angles 0 -86.772 0
+      }
+      {
+       coords -6.586 -0.368 -72.225
+       angles 0 -86.024 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{D4101A467FE8E7EE}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_8m.et" {
+      {
+       coords -1.643 0.459 -0.145
+       angles 0 -86.772 0
+      }
+      {
+       coords -1.202 -0.116 7.669
+       angles 0 -86.772 0
+      }
+      {
+       coords -0.762 -0.212 15.483
+       angles 0 -86.772 0
+      }
+      {
+       coords -0.321 -0.323 23.297
+       angles 0 -86.772 0
+      }
+      {
+       coords 0.12 -0.43 31.111
+       angles 0 -86.772 0
+      }
+      {
+       coords 0.56 -0.447 38.925
+       angles 0 -86.772 0
+      }
+      {
+       coords 1.001 -0.429 46.74
+       angles 0 -86.772 0
+      }
+      {
+       coords 1.442 -0.372 54.554
+       angles 0 -86.772 0
+      }
+      {
+       coords 1.882 -0.21 62.368
+       angles 0 -86.772 0
+      }
+      {
+       coords 2.695 0.421 76.773
+       angles 0 -86.772 0
+      }
+      {
+       coords 3.136 0.813 84.587
+       angles 0 -86.772 0
+      }
+      {
+       coords 3.576 1.143 92.401
+       angles 0 -86.772 0
+      }
+      {
+       coords 4.457 1.593 104.257
+       angles 0 -166.782 0
+      }
+      {
+       coords -6.816 -0.151 106.923
+       angles 0 -171.655 0
+      }
+      {
+       coords -14.485 -1.454 108.048
+       angles 0 -171.655 0
+      }
+      {
+       coords -27.759 -3.083 109.993
+       angles 0 -171.161 0
+      }
+      {
+       coords -35.484 -3.754 111.195
+       angles 0 -171.161 0
+      }
+      {
+       coords -43.209 -4.245 112.396
+       angles 0 -171.161 0
+      }
+      {
+       coords -52.751 -4.465 113.882
+       angles 0 -171.677 0
+      }
+      {
+       coords -60.494 -4.438 115.015
+       angles 0 -171.677 0
+      }
+      {
+       coords -68.237 -4.47 116.147
+       angles 0 -171.677 0
+      }
+      {
+       coords -75.98 -4.707 117.28
+       angles 0 -171.677 0
+      }
+      {
+       coords -83.724 -5.078 118.411
+       angles 0 -171.161 0
+      }
+      {
+       coords -91.45 -5.479 119.612
+       angles 0 -171.161 0
+      }
+      {
+       coords -99.176 -5.758 120.814
+       angles 0 -171.161 0
+      }
+      {
+       coords -108.916 -6.028 122.548
+       angles 0 -265.228 0
+      }
+      {
+       coords -109.567 -5.518 114.748
+       angles 0 -265.228 0
+      }
+      {
+       coords -110.218 -5.169 106.949
+       angles 0 -265.228 0
+      }
+      {
+       coords -110.869 -4.915 99.149
+       angles 0 -265.228 0
+      }
+      {
+       coords -111.52 -4.755 91.35
+       angles 0 -265.228 0
+      }
+      {
+       coords -112.171 -4.65 83.551
+       angles 0 -265.228 0
+      }
+      {
+       coords -112.823 -4.633 75.751
+       angles 0 -265.228 0
+      }
+      {
+       coords -113.474 -4.695 67.952
+       angles 0 -265.228 0
+      }
+      {
+       coords -114.125 -4.82 60.152
+       angles 0 -265.228 0
+      }
+      {
+       coords -114.776 -5.076 52.353
+       angles 0 -265.228 0
+      }
+      {
+       coords -115.427 -5.377 44.554
+       angles 0 -265.228 0
+      }
+      {
+       coords -116.078 -5.698 36.754
+       angles 0 -265.228 0
+      }
+      {
+       coords -116.729 -6.037 28.955
+       angles 0 -265.228 0
+      }
+      {
+       coords -117.38 -6.389 21.155
+       angles 0 -265.228 0
+      }
+      {
+       coords -118.031 -6.709 13.356
+       angles 0 -265.228 0
+      }
+      {
+       coords -118.682 -6.947 5.557
+       angles 0 -265.228 0
+      }
+      {
+       coords -119.333 -7.165 -2.243
+       angles 0 -265.228 0
+      }
+      {
+       coords -119.984 -7.312 -10.042
+       angles 0 -265.228 0
+      }
+      {
+       coords -120.635 -7.383 -17.842
+       angles 0 -265.228 0
+      }
+      {
+       coords -121.287 -7.372 -25.641
+       angles 0 -265.228 0
+      }
+      {
+       coords -121.938 -7.406 -33.44
+       angles 0 -265.228 0
+      }
+      {
+       coords -122.589 -7.636 -41.24
+       angles 0 -265.228 0
+      }
+      {
+       coords -123.24 -8.041 -49.039
+       angles 0 -265.228 0
+      }
+      {
+       coords -123.891 -8.468 -56.839
+       angles 0 -265.228 0
+      }
+      {
+       coords -124.542 -8.69 -64.638
+       angles 0 -265.228 0
+      }
+      {
+       coords -125.193 -8.737 -72.437
+       angles 0 -265.228 0
+      }
+      {
+       coords -125.844 -8.678 -80.237
+       angles 0 -265.228 0
+      }
+      {
+       coords -126.495 -8.593 -88.036
+       angles 0 -265.228 0
+      }
+      {
+       coords -127.146 -8.534 -95.836
+       angles 0 -265.228 0
+      }
+      {
+       coords -127.797 -8.425 -103.635
+       angles 0 -265.228 0
+      }
+      {
+       coords -128.448 -8.346 -111.434
+       angles 0 -265.228 0
+      }
+      {
+       coords -129.099 -8.319 -119.234
+       angles 0 -265.228 0
+      }
+      {
+       coords -130.138 -8.446 -129.075
+       angles 0 2.581 0
+      }
+      {
+       coords -122.327 -8.061 -129.428
+       angles 0 2.581 0
+      }
+      {
+       coords -114.515 -7.787 -129.78
+       angles 0 2.581 0
+      }
+      {
+       coords -106.704 -7.479 -130.132
+       angles 0 2.581 0
+      }
+      {
+       coords -98.892 -7.082 -130.484
+       angles 0 2.581 0
+      }
+      {
+       coords -91.081 -6.563 -130.836
+       angles 0 2.581 0
+      }
+      {
+       coords -83.269 -5.884 -131.188
+       angles 0 2.581 0
+      }
+      {
+       coords -75.458 -5.179 -131.54
+       angles 0 2.581 0
+      }
+      {
+       coords -67.646 -4.619 -131.892
+       angles 0 2.581 0
+      }
+      {
+       coords -59.835 -4.184 -132.245
+       angles 0 2.581 0
+      }
+      {
+       coords -52.023 -3.831 -132.597
+       angles 0 2.581 0
+      }
+      {
+       coords -44.212 -3.546 -132.949
+       angles 0 2.581 0
+      }
+      {
+       coords -36.4 -3.362 -133.301
+       angles 0 2.581 0
+      }
+      {
+       coords -28.588 -3.228 -133.653
+       angles 0 2.581 0
+      }
+      {
+       coords -20.777 -3.161 -134.005
+       angles 0 2.581 0
+      }
+      {
+       coords -10.925 -3.167 -134.666
+       angles 0 -86.024 0
+      }
+      {
+       coords -10.383 -2.734 -126.861
+       angles 0 -86.024 0
+      }
+      {
+       coords -9.84 -2.285 -119.056
+       angles 0 -86.024 0
+      }
+      {
+       coords -9.298 -1.88 -111.251
+       angles 0 -86.024 0
+      }
+      {
+       coords -8.755 -1.532 -103.446
+       angles 0 -86.024 0
+      }
+      {
+       coords -8.213 -1.183 -95.64
+       angles 0 -86.024 0
+      }
+      {
+       coords -7.67 -0.891 -87.835
+       angles 0 -86.024 0
+      }
+      {
+       coords -7.128 -0.586 -80.03
+       angles 0 -86.024 0
+      }
+      {
+       coords -6.128 -0.211 -65.641
+       angles 0 -86.024 0
+      }
+      {
+       coords -5.585 -0.1 -57.836
+       angles 0 -86.024 0
+      }
+      {
+       coords -5.043 -0.096 -50.03
+       angles 0 -86.024 0
+      }
+      {
+       coords -4.501 -0.125 -42.225
+       angles 0 -86.024 0
+      }
+      {
+       coords -3.958 -0.091 -34.42
+       angles 0 -86.024 0
+      }
+      {
+       coords -3.416 -0.033 -26.615
+       angles 0 -86.024 0
+      }
+      {
+       coords -2.873 0.016 -18.81
+       angles 0 -86.024 0
+      }
+     }
+    }
+   }
+  }
+ }
+}

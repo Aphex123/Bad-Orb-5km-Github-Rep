@@ -82956,6 +82956,86 @@ $grp SplineShapeEntity {
    }
   }
  }
+<<<<<<< Updated upstream
+=======
+ {
+  coords 5259.85 177.282 3569.333
+  Points {
+   ShapePoint "{64F9147E83A728E5}" {
+    Position 70.861 38.687 420.144
+   }
+   ShapePoint "{64F9147E8293FA5A}" {
+    Position 72.82 38.843 438.787
+   }
+   ShapePoint "{64F9147E82C8DC32}" {
+    Position 76.268 39.127 462.749
+   }
+  }
+  {
+   RoadGeneratorEntity : "{723C2AAE6E9AD132}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_smooth_7m_fd.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C655491CDCD64"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position 70.861 38.687 420.144
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 72.82 38.843 438.787
+       }
+       ShapePoint "{68C89BB075014200}" {
+        Position 76.268 39.127 462.749
+       }
+      }
+      IsClosedSpline 0
+      Width 7
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5609.105 191.056 3060.883
+  Points {
+   ShapePoint "{68D92B26202AC262}" {
+    Position -0.335 -0.077 -0.585
+   }
+   ShapePoint "{68D92B262701E07F}" {
+    Position 36.438 6.362 32.441
+   }
+   ShapePoint "{68D92B2624D59BF4}" {
+    Position 101.848 24.307 73.833
+   }
+  }
+  {
+   RoadGeneratorEntity : "{723C2AAE6E9AD132}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_smooth_7m_fd.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "556C655491CDCD64"
+      coords 15.479 0 12.16
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position -15.814 -0.077 -12.745
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 20.959 6.362 20.281
+       }
+       ShapePoint "{68D92B260B947C9A}" {
+        Position 86.369 24.307 61.673
+       }
+      }
+      IsClosedSpline 0
+      Width 7
+      BeginningPiece none
+     }
+    }
+   }
+  }
+ }
+>>>>>>> Stashed changes
 }
 $grp Tree : "{0403896A729E8124}Prefabs/Vegetation/Tree/t_betula_pendula_1s_fd_fd.et" {
  {

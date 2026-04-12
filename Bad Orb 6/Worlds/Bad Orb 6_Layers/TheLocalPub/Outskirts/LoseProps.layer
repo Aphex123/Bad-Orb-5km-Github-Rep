@@ -1,0 +1,108 @@
+GenericEntity : "{2AE32F7E8BCF68EE}Prefabs/Props/Forest/WoodPile/WoodPile_01_End_A.et" {
+ coords 5723.676 334.478 4822.648
+ angles -2.904 -160.937 0
+}
+GenericEntity : "{6DD0648BB7A52420}Prefabs/Props/Civilian/Wheelbarrow_01.et" {
+ coords 5739.826 336.015 4838.128
+ angles 0 -101.972 0
+}
+SCR_DestructibleBuildingEntity : "{8590602F727399F4}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_small.et" {
+ coords 5740.549 0.175 4836.136
+ angles 0 19.467 0
+}
+GenericEntity : "{B3E8911E396DE447}Prefabs/Props/Services/Fire/FireExtinguisherBox_01_Shovel.et" {
+ coords 5740.07 336.598 4838.047
+ angles 51.24 -161.776 118.94
+ scale 1.4
+}
+GenericEntity : "{E537DCDB9B3F2278}Prefabs/Props/Agriculture/Farm/HayPile_01.et" {
+ coords 5742.925 338.114 4854.529
+ angles 7.782 0.025 -1.101
+ scale 2.171
+}
+$grp StaticModelEntity : "{ECAF8FE9FFC28643}Prefabs/Props/Agriculture/Farm/HaystackDryer_01.et" {
+ {
+  coords 5736.73 0 4882.89
+  angles -8.062 -118.154 -3.737
+ }
+ {
+  coords 5749.62 0 4874
+  angles -6.934 -114.472 -6.587
+ }
+ {
+  coords 5751.525 0 4887.205
+  angles -7.645 -137.266 -2.209
+ }
+ {
+  coords 5759.27 0 4881.41
+  angles -4.766 -110.237 -7.707
+ }
+ {
+  coords 5776.55 0 4874.52
+  angles 6.981 -28.479 -5.78
+ }
+ {
+  coords 5794.88 0 4879.19
+  angles 3.885 -37.154 -9.576
+ }
+ {
+  coords 5791.81 0 4866.68
+  angles -6.794 -102.817 -5.732
+ }
+ {
+  coords 5804.04 0 4866.49
+  angles 4.752 94.728 7.511
+ }
+ {
+  coords 5800.13 0 4850.08
+  angles -5.182 -88.158 -5.502
+ }
+ {
+  coords 5785.03 0 4859.2
+  angles 7.172 0.768 -3.453
+ }
+ {
+  coords 5788.7 0 4845.79
+  angles 5.861 84.262 4.771
+ }
+ {
+  coords 5777.11 0 4848.19
+  angles 1.538 109.902 6.243
+ }
+ {
+  coords 5766.76 0 4843.32
+  angles -5.573 160.849 5.687
+ }
+ {
+  coords 5757.31 0 4839.96
+  angles -6.481 170.939 4.624
+ }
+ {
+  coords 5745.88 0 4846.47
+  angles 7.219 24.602 1.343
+ }
+ {
+  coords 5731.73 0 4848.51
+  angles -0.718 115.721 5.598
+ }
+ {
+  coords 5732.68 0 4863.02
+  angles 7.076 -0.779 -3.645
+ }
+ {
+  coords 5743.1 0 4863.64
+  angles 8.451 -6.203 -4.469
+ }
+ {
+  coords 5753.09 0 4853.99
+  angles 3.807 88.133 6.991
+ }
+ {
+  coords 5761.77 0 4860.69
+  angles 11.16 14.967 -0.672
+ }
+ {
+  coords 5773.36 0 4861.39
+  angles -6.911 -146.131 -2.485
+ }
+}
