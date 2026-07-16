@@ -1,11 +1,3 @@
-Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra_3s.et" {
+Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra/t_populus_nigra_3s.et" {
  ID "0F2AA6B42CA78628"
- components {
-  MeshObject "{680BA6B5982CCC9C}" {
-   LODFactors {
-    350 4 2 1
-   }
-   PixelSizeScale 4
-  }
- }
 }

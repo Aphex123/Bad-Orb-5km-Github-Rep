@@ -1,13 +1,5 @@
-Tree : "{F89B942712FD22D6}Prefabs/Vegetation/Tree/t_carpinus_betulus_2s.et" {
+Tree : "{F89B942712FD22D6}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_2s.et" {
  ID "0F2AA6B42CA78628"
- components {
-  MeshObject "{73B3A8278EC9D71C}" {
-   LODFactors {
-    15 4 2 1
-   }
-   PixelSizeScale 3
-  }
- }
  coords 11.885 -22.036 -19.575
  scale 1.187
 }

@@ -44204,212 +44204,191 @@ $grp PolylineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   ForestGeneratorEntity : "{5AB04B018BA1DB3F}Prefabs/WEGenerators/Forest/Spruce_Nursery_large_fd.et" {
+   ForestGeneratorEntity : "{AC8162821204A8C1}Prefabs/WEGenerators/Forest/Spruce_Nursery_large_V2_fd.et" {
     Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 8235
     {
-     SCR_IndestructibleEnvironmentalEntity : "{1BA4712EED0CB208}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_03.et" {
-      coords -42.377 -4.316 -25.198
-      angles 25.731 44.666 -21.787
-      scale 0.946
-     }
-     $grp Tree : "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1s.et" {
+     $grp SCR_IndestructibleEnvironmentalEntity : "{1BA4712EED0CB208}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_03.et" {
       {
-       coords -41.192 -4.177 -25.667
-       angles 0.748 121.677 -2.336
-       scale 0.529
-      }
-      {
-       coords -42.67 -4.477 -27.006
-       angles -2.612 51.593 -0.868
-       scale 0.608
-      }
-     }
-     Tree : "{4A162F808614FA14}Prefabs/Vegetation/Tree/t_picea_abies/t_picea_abies_stump_02.et" {
-      coords -35.511 -3.396 -24.233
-      angles 1.433 117.997 -4.253
-      scale 0.78
-     }
-     $grp Tree : "{60C460D3DF44A186}Prefabs/Vegetation/Tree/t_picea_abies_2s_fd_fd.et" {
-      {
-       coords -40.237 -4.382 -32.09
-       angles 0.345 -172.139 1.447
-       scale 1.338
-      }
-      {
-       coords -11.922 -0.702 -3.436
-       angles 1.975 -144.343 1.345
-       scale 1.355
-      }
-      {
-       coords -22.832 -1.627 -9.715
-       angles 0.462 -127.5 -0.338
-       scale 1.466
-      }
-      {
-       coords -39.297 -3.572 -19.561
-       angles 1.242 -41.277 0.115
-       scale 1.203
-      }
-      {
-       coords -28.951 -2.469 -45.097
-       angles 0.24 -138.663 -0.263
-       scale 1.191
-      }
-      {
-       coords -14.606 -0.809 -17.478
-       angles 0.351 56.834 -1.769
-       scale 1.451
-      }
-      {
-       coords -26.361 -2.247 -25.158
-       angles -1.308 20.281 0.286
-       scale 1.425
-      }
-      {
-       coords -19.376 -1.184 -35.608
-       angles 0.014 51.231 -1.786
+       coords -36.353 -3.043 -15.645
+       angles 73.583 168.184 -41.096
        scale 1.167
       }
       {
-       coords -34.06 -1.862 1.011
-       angles 0.658 -43.386 -0.724
-       scale 1.295
+       coords -34.758 -2.715 -12.781
+       angles 27.829 110.905 -92.705
+       scale 0.92
+      }
+     }
+     $grp Tree : "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1s.et" {
+      {
+       coords -29.759 -2.768 -40.276
+       angles -0.976 6.548 1.902
+       scale 1.116
       }
       {
-       coords -30.21 -2.901 -36.229
-       angles -1.051 72.655 -1.612
-       scale 1.181
+       coords -32.465 -3.204 -40.435
+       angles -1.02 -95.188 2.726
+       scale 0.915
       }
       {
-       coords -19.991 -1.144 3.904
-       angles 1.876 -147.957 -0.708
-       scale 1.47
+       coords -26.896 -2.321 -39.795
+       angles -2.017 28.884 -1.009
+       scale 0.999
+      }
+      {
+       coords -33.996 -2.605 -11.672
+       angles 0.14 50.011 -0.764
+       scale 0.878
+      }
+     }
+     Tree : "{4A162F808614FA14}Prefabs/Vegetation/Tree/t_picea_abies/t_picea_abies_stump_02.et" {
+      coords -10.027 -0.525 -5.58
+      angles 3.708 -77.28 0.092
+      scale 1.018
+     }
+     $grp Tree : "{60C460D3DF44A186}Prefabs/Vegetation/Tree/t_picea_abies_2s_fd_fd.et" {
+      {
+       coords -18.111 -1.198 -21.489
+       angles 1.884 112.833 0.426
+       scale 1.29
+      }
+      {
+       coords -29.716 -2.19 -10.318
+       angles 0.347 -39.508 0.398
+       scale 1.322
+      }
+      {
+       coords -16.352 -1.027 0.662
+       angles -1.592 94.991 0.958
+       scale 1.358
+      }
+      {
+       coords -34.123 -3.503 -33.544
+       angles 0.067 69.447 0.474
+       scale 1.304
+      }
+      {
+       coords -40.235 -3.373 -15.094
+       angles -0.514 84.949 -1.691
+       scale 1.402
+      }
+      {
+       coords -22.382 -1.616 -38.18
+       angles 1.781 152.693 0.033
+       scale 1.477
+      }
+      {
+       coords -9.628 -0.42 -8.995
+       angles -1.369 140.179 -0.713
+       scale 1.417
+      }
+      {
+       coords -47.497 -5.532 -35.593
+       angles 0.621 97.99 -0.525
+       scale 1.156
+      }
+      {
+       coords -33.927 -1.6 5.065
+       angles 1.955 113.393 0.056
+       scale 1.122
       }
      }
      $grp Tree : "{779DF03FAB7A131E}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_stump_01.et" {
       {
-       coords -9.265 -0.515 -2.342
-       angles 0 -49.517 0
-       scale 1.058
+       coords -4.973 -0.28 0.008
+       angles 0 6.24 0
+       scale 0.88
       }
       {
-       coords -41.696 -4.695 -39.578
-       angles 0 91.024 0
-       scale 0.973
+       coords -14.983 -0.526 -33.225
+       angles 0 -30.488 0
+       scale 0.965
       }
       {
-       coords -6.485 -0.141 -8.482
-       angles 0 -51.725 0
-       scale 0.903
+       coords -43.142 -4.312 -23.9
+       angles 0 133.103 0
+       scale 1.128
       }
       {
-       coords -15.618 -0.808 -24.804
-       angles 0 -41.343 0
-       scale 1.1
+       coords -41.125 -3.803 -20.142
+       angles 0 146.694 0
+       scale 0.926
       }
       {
-       coords -26.271 -1.236 7.473
-       angles 0 113.349 0
-       scale 1.117
+       coords -12.445 -0.532 -18.109
+       angles 0 -167.58 0
+       scale 0.891
+      }
+      {
+       coords -16.75 -1.018 3.245
+       angles 0 33.652 0
+       scale 1.035
       }
      }
      SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
-      coords -40.864 -4.091 -24.651
-      angles -25.445 17.859 -47.902
-      scale 0.945
+      coords -35.738 -2.885 -14.035
+      angles -5.351 -4.367 -105.329
+      scale 0.815
      }
      $grp Tree : "{A3328B0AB53994AD}Prefabs/Vegetation/Tree/t_picea_abies_0_fd_fd.et" {
       {
-       coords -42.353 -3.737 -17.249
-       angles -0.517 58.702 0.126
-       scale 0.973
+       coords -8.852 -0.4 -6.315
+       angles 1.776 -14.37 1.451
+       scale 0.965
       }
       {
-       coords -29.807 -2.364 -14.94
-       angles -1.735 142.42 0.525
-       scale 0.972
-      }
-      {
-       coords -36.939 -3.402 -21.204
-       angles -1.945 67.788 -1.699
-       scale 0.869
-      }
-      {
-       coords -43.823 -5.028 -38.976
-       angles 0.71 -105.296 -0.988
-       scale 1.045
-      }
-      {
-       coords -28.174 -2.356 -20.012
-       angles 1.344 163.438 1.92
-       scale 1.076
+       coords -19.803 -1.308 -5.586
+       angles 1.968 -138.344 -0.546
+       scale 1.145
       }
      }
-     $grp Tree : "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et" {
-      {
-       coords -35.647 -2.072 -0.795
-       angles -0.051 -169.931 0.21
-       scale 0.845
-      }
-      {
-       coords -39.553 -4.048 -26.915
-       angles -1.104 -21.929 -1.555
-       scale 0.868
-      }
+     Tree : "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et" {
+      coords -32.017 -3.182 -36.892
+      angles -1.278 -163.251 0.82
+      scale 0.803
      }
      Tree : "{C8E68C4C6AF159DA}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2sw.et" {
-      coords -38.973 -2.962 -10.568
-      angles -2.489 32.015 -0.787
-      scale 0.949
+      coords -28.191 -2.479 -41.99
+      angles 0.096 -94.419 2.412
+      scale 0.926
      }
      $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et" {
       {
-       coords -36.948 -2.591 -7.529
-       angles -0.288 -102.341 -0.93
-       scale 0.989
+       coords -24.698 -1.923 -40.632
+       angles -1.775 179.039 -0.803
+       scale 1.044
       }
       {
-       coords -34.84 -2.373 -6.384
-       angles -1.351 21.468 0.932
-       scale 1.026
+       coords -37.015 -2.941 -13.018
+       angles -1.737 -142.42 -0.402
+       scale 0.863
       }
-     }
-     Tree : "{DB49D8B142D18E86}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2s.et" {
-      coords -31.964 -2.207 -6.863
-      angles 2.608 -75.478 -0.674
-      scale 1.033
-     }
-     Tree : "{F1DB9A8115310093}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1f.et" {
-      coords -32.884 -2.372 -8.837
-      angles -0.692 -163.24 -3.268
-      scale 1.003
      }
      $grp Tree : "{F9DAD94AC2A39016}Prefabs/Vegetation/Tree/t_picea_abies_1s_fd_fd.et" {
       {
-       coords -9.523 -0.569 0.087
-       angles -0.785 -139.091 1.411
-       scale 1.648
+       coords -17.36 -0.797 -38.036
+       angles -0.15 -8.965 0.088
+       scale 1.485
       }
       {
-       coords -38.513 -4.196 -35.17
-       angles -0.469 152.857 0.275
-       scale 1.509
-      }
-      {
-       coords -28.47 -1.798 -3.07
-       angles 1.64 121.677 -0.327
-       scale 1.708
-      }
-      {
-       coords -25.095 -1.553 -1.573
-       angles -0.672 49.517 0.167
-       scale 1.541
+       coords -26.804 -2.181 -18.506
+       angles -1.45 -163.888 -1.863
+       scale 1.556
       }
      }
-     SCR_IndestructibleEnvironmentalEntity : "{FE383DD7E1E92563}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_02.et" {
-      coords -38.473 -3.234 -15.523
-      angles -38.289 -69.87 -115.92
-      scale 0.947
+     $grp SCR_IndestructibleEnvironmentalEntity : "{FE383DD7E1E92563}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_02.et" {
+      {
+       coords -27.48 -2.317 -21.518
+       angles -89.102 141.59 -45.747
+       scale 0.835
+      }
+      {
+       coords -42.016 -4.103 -22.826
+       angles -43.073 -153.934 -139.097
+       scale 1.159
+      }
      }
     }
    }
@@ -77646,32 +77625,32 @@ $grp SCR_DestructibleBuildingEntity : "{43F212A090D1CC5A}Prefabs/Structures/Wall
  }
  {
   coords 5299.057 169.662 2856.757
-  angles 1.03 78.366 0.611
+  angles 1.03 78.366 0.381
   scale 1.98
  }
  {
   coords 5288.039 169.46 2854.49
-  angles 1.03 78.366 0.611
+  angles 1.03 78.366 0.381
   scale 1.98
  }
  {
-  coords 5289.11 169.518 2849.294
-  angles 1.03 78.366 0.611
+  coords 5289.109 169.539 2849.294
+  angles 1.03 78.366 0.381
   scale 1.98
  }
  {
-  coords 5300.127 169.606 2851.563
-  angles 1.03 78.366 0.611
+  coords 5300.126 169.627 2851.563
+  angles 1.03 78.366 0.381
   scale 1.98
  }
  {
-  coords 5303.081 169.688 2836.125
-  angles -0.009 -101.068 1.693
+  coords 5303.08 169.772 2836.125
+  angles -0.011 -101.064 1.923
   scale 1.98
  }
  {
-  coords 5291.969 169.686 2833.951
-  angles -0.009 -101.068 1.693
+  coords 5291.968 169.77 2833.952
+  angles -0.011 -101.064 1.923
   scale 1.98
  }
  {
@@ -77710,23 +77689,8 @@ $grp SCR_DestructibleBuildingEntity : "{43F212A090D1CC5A}Prefabs/Structures/Wall
   scale 1.423
  }
  {
-  coords 5301.774 167.878 3178.976
-  angles -0.065 51.08 -1.639
-  scale 1.423
- }
- {
   coords 5308.488 168.184 3170.664
   angles -0.065 51.08 -1.639
-  scale 1.423
- }
- {
-  coords 5294.675 167.375 3187.123
-  angles -0.187 46.797 -3.728
-  scale 1.423
- }
- {
-  coords 5287.37 166.679 3194.895
-  angles -0.187 46.797 -3.728
   scale 1.423
  }
  {
@@ -77817,21 +77781,6 @@ $grp SCR_DestructibleBuildingEntity : "{43F212A090D1CC5A}Prefabs/Structures/Wall
  {
   coords 5286.716 166.024 3208.887
   angles -0.187 46.797 -2.359
-  scale 1.423
- }
- {
-  coords 5294.369 166.671 3200.74
-  angles -0.187 46.797 -3.728
-  scale 1.423
- }
- {
-  coords 5301.673 167.367 3192.969
-  angles -0.187 46.797 -3.728
-  scale 1.423
- }
- {
-  coords 5308.773 167.87 3184.82
-  angles -0.065 51.08 -1.639
   scale 1.423
  }
  {

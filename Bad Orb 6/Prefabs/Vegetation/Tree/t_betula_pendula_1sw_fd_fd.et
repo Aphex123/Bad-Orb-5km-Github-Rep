@@ -1,11 +1,3 @@
-Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula_1sw.et" {
+Tree : "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1sw.et" {
  ID "0F2AA6B42CA78628"
- components {
-  MeshObject "{73B3A8278EC9D71C}" {
-   LODFactors {
-    15 10 2 1
-   }
-   PixelSizeScale 4
-  }
- }
 }

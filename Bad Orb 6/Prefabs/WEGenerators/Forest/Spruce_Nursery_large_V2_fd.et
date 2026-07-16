@@ -1,8 +1,8 @@
 ForestGeneratorEntity {
- ID "614F0727FB56DA96"
+ ID "69B11C65457BB445"
+ Flags 0x100003 0
  coords 0 0 0
- Flags 1048579
- GeneratorType GeneratorTypeForest "{614F0727FB56DAB7}" {
+ GeneratorType GeneratorTypeForest "{69B11C65457BB44A}" {
  }
  m_iSeed 46
  m_aLevels {
@@ -12,19 +12,19 @@ ForestGeneratorEntity {
      m_aTrees {
       ForestGeneratorTreeShort GraniteStone_01 {
        m_fMinScale 0.6
-       m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+       m_Prefab "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et"
        m_fRandomPitchAngle 6
        m_fRandomRollAngle 6
       }
       ForestGeneratorTreeShort GranitStone_022 {
        m_fMinScale 0.6
-       m_Prefab "{FE383DD7E1E92563}PrefabLibrary/Rocks/Granite/GraniteStone_02.et"
+       m_Prefab "{FE383DD7E1E92563}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_02.et"
        m_fRandomPitchAngle 6
        m_fRandomRollAngle 6
       }
       ForestGeneratorTreeShort GranitStone_03 {
        m_fMinScale 0.6
-       m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+       m_Prefab "{1BA4712EED0CB208}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_03.et"
        m_fRandomPitchAngle 6
        m_fRandomRollAngle 6
       }
@@ -81,7 +81,7 @@ ForestGeneratorEntity {
      m_aTrees {
       FallenTree Picea_abies {
        m_fMinScale 0.5
-       m_Prefab "{AA14F25DFBDF4945}PrefabLibrary/Vegetation/Trees/t_picea_abies_3d_fallen.et"
+       m_Prefab "{AA14F25DFBDF4945}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_3d_fallen.et"
        m_fBotDistance 0.25
        m_fRandomPitchAngle 0
        m_fRandomRollAngle 0
@@ -92,7 +92,7 @@ ForestGeneratorEntity {
       }
       ForestGeneratorTreeShort Piceas_abies_stub {
        m_fMinScale 0.85
-       m_Prefab "{779DF03FAB7A131E}PrefabLibrary/Vegetation/Trees/t_picea_abies_stump_01.et"
+       m_Prefab "{779DF03FAB7A131E}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_stump_01.et"
        m_fBotDistance 0
        m_fRandomPitchAngle 4
        m_fRandomRollAngle 4
@@ -100,7 +100,7 @@ ForestGeneratorEntity {
       }
       ForestGeneratorTreeShort Picea_abies_stump02 {
        m_fMinScale 0.7
-       m_Prefab "{4A162F808614FA14}Prefabs/Vegetation/Tree/t_picea_abies_stump_02.et"
+       m_Prefab "{4A162F808614FA14}Prefabs/Vegetation/Tree/t_picea_abies/t_picea_abies_stump_02.et"
        m_fBotDistance 0
        m_fRandomPitchAngle 6
        m_fRandomRollAngle 6
@@ -115,7 +115,7 @@ ForestGeneratorEntity {
     TreeGroupClass Picea {
      m_aTrees {
       ForestGeneratorTreeTall Picea_abies_3f {
-       m_Prefab "{59EDDDB5D3B5241F}PrefabLibrary/Vegetation/Trees/t_piceaabies_3f.et"
+       m_Prefab "{59EDDDB5D3B5241F}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_piceaabies_3f.et"
        m_fBotDistance 0.35
        m_fRandomPitchAngle 2
        m_fRandomRollAngle 2
@@ -123,7 +123,7 @@ ForestGeneratorEntity {
        m_fTopDistance 3
       }
       ForestGeneratorTreeTall Picea_abies_3d {
-       m_Prefab "{D8C5DFD6ECA5F0DC}PrefabLibrary/Vegetation/Trees/t_picea_abies_3d.et"
+       m_Prefab "{D8C5DFD6ECA5F0DC}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_3d.et"
        m_fBotDistance 0.35
        m_fRandomPitchAngle 4
        m_fRandomRollAngle 4
@@ -142,34 +142,34 @@ ForestGeneratorEntity {
    m_aObjects {
     SmallForestGeneratorClusterObject Betula_Pendula_2sw {
      m_fMinScale 0.7
-     m_Prefab "{C8E68C4C6AF159DA}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2sw.et"
+     m_Prefab "{C8E68C4C6AF159DA}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2sw.et"
      m_iMinCount 0
      m_fMinRadius 0
      m_fMaxRadius 7
     }
     SmallForestGeneratorClusterObject corylus_avellana_1s {
-     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
+     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
      m_iMinCount 0
      m_iMaxCount 3
      m_fMinRadius 0
      m_fMaxRadius 6
     }
     SmallForestGeneratorClusterObject Betula_pendula_1s {
-     m_Prefab "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
+     m_Prefab "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
      m_iMinCount 0
      m_iMaxCount 3
      m_fMinRadius 0
      m_fMaxRadius 4
     }
     SmallForestGeneratorClusterObject Corylus_avellana_1l {
-     m_Prefab "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et"
+     m_Prefab "{DA7492F3E6B63251}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et"
      m_iMinCount 0
      m_iMaxCount 5
      m_fMinRadius 0
      m_fMaxRadius 4
     }
     MiddleForestGeneratorClusterObject Betula_pendula_2s {
-     m_Prefab "{DB49D8B142D18E86}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2s.et"
+     m_Prefab "{DB49D8B142D18E86}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2s.et"
      m_fRandomPitchAngle 2
      m_fRandomRollAngle 2
      m_iMinCount 0
@@ -179,7 +179,7 @@ ForestGeneratorEntity {
     }
     SmallForestGeneratorClusterObject Betula_Pendla_1f {
      m_fMinScale 0.7
-     m_Prefab "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1f.et"
+     m_Prefab "{F1DB9A8115310093}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1f.et"
      m_fRandomPitchAngle 2
      m_fRandomRollAngle 2
      m_iMinCount 0
@@ -189,14 +189,14 @@ ForestGeneratorEntity {
     }
     MiddleForestGeneratorClusterObject Betula_Pendula_2sd {
      m_fMinScale 0.6
-     m_Prefab "{A3C21E24597FF803}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2sd.et"
+     m_Prefab "{A3C21E24597FF803}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2sd.et"
      m_iMinCount 0
      m_iMaxCount 1
      m_fMinRadius 0
      m_fMidDistance 4
     }
     BigForestGeneratorClusterObject Betula_Pendula_3f {
-     m_Prefab "{1FCF4B90FC74DE73}PrefabLibrary/Vegetation/Trees/t_betula_pendula_3f.et"
+     m_Prefab "{1FCF4B90FC74DE73}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_3f.et"
      m_fBotDistance 0.5
      m_fRandomPitchAngle 3
      m_fRandomRollAngle 3
@@ -214,7 +214,7 @@ ForestGeneratorEntity {
    m_aObjects {
     SmallForestGeneratorClusterObject Stone_01 {
      m_fMinScale 0.5
-     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et"
      m_fBotDistance 0.8
      m_fRandomPitchAngle 6
      m_fRandomRollAngle 6
@@ -225,7 +225,7 @@ ForestGeneratorEntity {
     }
     SmallForestGeneratorClusterObject Stone_02 {
      m_fMinScale 0.5
-     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_03.et"
      m_fBotDistance 0
      m_fRandomPitchAngle 6
      m_fRandomRollAngle 6
@@ -237,7 +237,7 @@ ForestGeneratorEntity {
     SmallForestGeneratorClusterObject Stone_03 {
      m_fMinScale 0.5
      m_fMaxScale 1.2
-     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_03.et"
      m_fBotDistance 0.8
      m_iMinCount 0
      m_iMaxCount 3
@@ -247,28 +247,28 @@ ForestGeneratorEntity {
     SmallForestGeneratorClusterObject betula_pendula_1s {
      m_fMinScale 0.5
      m_fMaxScale 0.9
-     m_Prefab "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
+     m_Prefab "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
      m_fBotDistance 0.3
      m_iMinCount 0
      m_fMinRadius 0
      m_fMaxRadius 3
     }
     SmallForestGeneratorClusterObject corylus_avellana_1s {
-     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
+     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
      m_iMinCount 0
      m_iMaxCount 3
      m_fMinRadius 0
     }
     SmallForestGeneratorClusterObject Corylus_Avellana_1l {
      m_fMinScale 0.5
-     m_Prefab "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et"
+     m_Prefab "{DA7492F3E6B63251}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et"
      m_iMinCount 0
      m_iMaxCount 3
      m_fMinRadius 0
      m_fMaxRadius 3
     }
     SmallForestGeneratorClusterObject Betula_Pendula_1f {
-     m_Prefab "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1f.et"
+     m_Prefab "{F1DB9A8115310093}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_1f.et"
      m_iMinCount 0
      m_fMinRadius 0
     }

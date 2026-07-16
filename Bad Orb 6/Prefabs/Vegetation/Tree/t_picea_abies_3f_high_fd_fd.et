@@ -1,13 +1,3 @@
-Tree : "{CCAB9CE2D5FD851E}Prefabs/Vegetation/Tree/t_picea_abies_3f_high.et" {
+Tree : "{CCAB9CE2D5FD851E}Prefabs/Vegetation/Tree/t_picea_abies/t_picea_abies_3f_high.et" {
  ID "0F2AA6B42CA78628"
- components {
-  MeshObject "{56C73B1F8B49DBBF}" {
-   LODFactors {
-    500 400 300 200 1
-   }
-   PixelSizeScale 4
-   ClutterOccluder 1
-   ClutterOccluderClipPlane 0.5
-  }
- }
 }

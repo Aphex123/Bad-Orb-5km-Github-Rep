@@ -9662,10 +9662,10 @@ $grp PolylineShapeEntity {
     Position 109.854 5.604 -337.343
    }
    ShapePoint "{64EA078C19EE5DF8}" {
-    Position 74.447 2.664 -304.941
+    Position 73.667 2.681 -305.662
    }
    ShapePoint "{64EA078C1B4AC8E9}" {
-    Position 41.165 2.146 -278.628
+    Position 40.663 2.146 -279.636
    }
    ShapePoint "{64EA078C2778049E}" {
     Position 5.417 3.129 -258.29
@@ -9744,6 +9744,7 @@ $grp PolylineShapeEntity {
   LineColor 0 0.498 0.831 0
   {
    SCR_PowerlineGeneratorEntity : "{20E4877A07D28503}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall_fd_fd.et" {
+    m_iSeed 377
     {
      SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_end.et" {
       coords 195.206 6.607 -461.363
@@ -9751,16 +9752,16 @@ $grp PolylineShapeEntity {
      }
      SCR_JunctionPowerPole : "{40D6EE3B8FCB5892}Prefabs/Structures/Infrastructure/Power/Powerlines/Powerline_01/PowerLine_01_pole_small_hook_junction_fd_fd.et" {
       coords -135.762 3.085 -208.047
-      angles -3.957 300.942 -3.902
+      angles -3.69 300.942 3.179
      }
      $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
       {
        coords 195.206 6.607 -461.363
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055369F121}" {
+        Cable "{69E0E49ED3A22EEA}" {
          StartPoint 0 7.75 0
-         EndPoint -6.296 7.832 10.342
+         EndPoint -6.297 7.832 10.318
         }
        }
       }
@@ -9768,9 +9769,9 @@ $grp PolylineShapeEntity {
        coords 188.66 6.539 -451.021
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553698D72}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 17.625 6.668 18.244
+        Cable "{69E0E49ED3A22ADC}" {
+         StartPoint 0.249 7.9 -0.024
+         EndPoint 17.625 6.668 18.248
         }
        }
       }
@@ -9778,9 +9779,9 @@ $grp PolylineShapeEntity {
        coords 206.035 5.307 -432.777
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055369533A}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -32.383 7.708 32.377
+        Cable "{69E0E49ED3A5D446}" {
+         StartPoint 0.25 7.9 0.004
+         EndPoint -32.456 7.708 32.554
         }
        }
       }
@@ -9788,9 +9789,9 @@ $grp PolylineShapeEntity {
        coords 173.402 5.115 -400.4
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055369701F}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -31.811 8.178 32.628
+        Cable "{69E0E49ED3A5D73A}" {
+         StartPoint 0.177 7.9 0.176
+         EndPoint -31.885 8.178 32.805
         }
        }
       }
@@ -9798,9 +9799,9 @@ $grp PolylineShapeEntity {
        coords 141.341 5.393 -367.772
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553696A98}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -31.237 7.986 30.429
+        Cable "{69E0E49ED3A5D69C}" {
+         StartPoint 0.176 7.9 0.177
+         EndPoint -31.317 7.986 30.613
         }
        }
       }
@@ -9808,29 +9809,29 @@ $grp PolylineShapeEntity {
        coords 109.854 5.479 -337.343
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553690F63}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -35.157 5.116 32.402
+        Cable "{69E0E49ED3A5D047}" {
+         StartPoint 0.169 7.9 0.184
+         EndPoint -36.027 5.102 31.873
         }
        }
       }
       {
-       coords 74.447 2.695 -304.941
+       coords 73.667 2.681 -305.662
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536926B3}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -33.032 7.351 26.312
+        Cable "{69E0E49ED3A5D32A}" {
+         StartPoint 0.16 7.9 0.192
+         EndPoint -32.862 7.365 26.232
         }
        }
       }
       {
-       coords 41.165 2.146 -278.628
+       coords 40.663 2.146 -279.636
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055368D872}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -35.498 8.929 20.338
+        Cable "{69E0E49ED3A5D294}" {
+         StartPoint 0.143 7.9 0.206
+         EndPoint -35.134 8.929 21.57
         }
        }
       }
@@ -9838,9 +9839,9 @@ $grp PolylineShapeEntity {
        coords 5.417 3.175 -258.29
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055368F38D}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -26.618 8.281 10.836
+        Cable "{69E0E49ED3A5DC40}" {
+         StartPoint 0.112 7.9 0.224
+         EndPoint -26.78 8.281 11.07
         }
        }
       }
@@ -9848,9 +9849,9 @@ $grp PolylineShapeEntity {
        coords -21.451 3.556 -247.454
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553689194}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -32.397 6.221 11.541
+        Cable "{69E0E49ED3A5DF28}" {
+         StartPoint 0.088 7.9 0.234
+         EndPoint -32.562 6.221 11.776
         }
        }
       }
@@ -9858,9 +9859,9 @@ $grp PolylineShapeEntity {
        coords -54.098 1.877 -235.913
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055368B456}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -20.519 7.09 7.641
+        Cable "{69E0E49ED3A5DE95}" {
+         StartPoint 0.085 7.9 0.235
+         EndPoint -20.678 7.09 7.874
         }
        }
       }
@@ -9868,9 +9869,9 @@ $grp PolylineShapeEntity {
        coords -74.867 1.067 -228.272
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055368A922}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -17.226 8.517 7.166
+        Cable "{69E0E49ED3A5D857}" {
+         StartPoint 0.091 7.9 0.233
+         EndPoint -17.392 8.517 7.402
         }
        }
       }
@@ -9878,9 +9879,9 @@ $grp PolylineShapeEntity {
        coords -92.343 1.684 -221.106
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536843D1}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -18.659 8.56 5.661
+        Cable "{69E0E49ED3A5DB6D}" {
+         StartPoint 0.083 7.9 0.236
+         EndPoint -18.837 8.56 5.9
         }
        }
       }
@@ -9888,9 +9889,9 @@ $grp PolylineShapeEntity {
        coords -111.252 2.345 -215.445
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553687BD7}" {
-         StartPoint 0.25 7.9 0
-         EndPoint -24.51 8.54 7.398
+        Cable "{69E0E49ED3A5DA6D}" {
+         StartPoint 0.072 7.9 0.24
+         EndPoint -24.718 8.512 8.027
         }
        }
       }
@@ -9898,9 +9899,9 @@ $grp PolylineShapeEntity {
        coords -135.762 3.085 -208.047
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D90553681271}" {
-         StartPoint 0 7.8 0
-         EndPoint -15.806 7.993 16.102
+        Cable "{69E0E49ED3A5C52F}" {
+         StartPoint -0.208 7.772 0.629
+         EndPoint -15.806 7.993 16.104
         }
        }
       }
@@ -9908,9 +9909,9 @@ $grp PolylineShapeEntity {
        coords -151.818 3.177 -191.945
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536834E7}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 22.585 5.923 22.928
+        Cable "{69E0E49ED3A5C4E3}" {
+         StartPoint 0.25 7.9 0.002
+         EndPoint 22.515 5.923 22.754
         }
        }
       }
@@ -9918,9 +9919,9 @@ $grp PolylineShapeEntity {
        coords -129.483 1.2 -169.017
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D9055368288D}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 13.921 7.062 14.155
+        Cable "{69E0E49ED3A5C7AE}" {
+         StartPoint 0.18 7.9 -0.174
+         EndPoint 13.85 7.062 13.981
         }
        }
       }
@@ -9928,9 +9929,9 @@ $grp PolylineShapeEntity {
        coords -115.812 0.362 -154.862
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536BC293}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 25.208 7.059 25.488
+        Cable "{69E0E49ED3A5C1DF}" {
+         StartPoint 0.179 7.9 -0.174
+         EndPoint 25.14 7.059 25.317
         }
        }
       }
@@ -9938,9 +9939,9 @@ $grp PolylineShapeEntity {
        coords -90.854 -0.479 -129.374
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536BE5C8}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 32.036 8.513 35.268
+        Cable "{69E0E49ED3A5C35D}" {
+         StartPoint 0.182 7.9 -0.171
+         EndPoint 31.974 8.513 35.104
         }
        }
       }
@@ -9948,9 +9949,9 @@ $grp PolylineShapeEntity {
        coords -59.068 0.134 -94.106
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536B9C7C}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 27.085 7.999 31.567
+        Cable "{69E0E49ED3A5C202}" {
+         StartPoint 0.188 7.9 -0.165
+         EndPoint 27.058 7.999 31.453
         }
        }
       }
@@ -9958,9 +9959,9 @@ $grp PolylineShapeEntity {
        coords -32.233 0.232 -62.539
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536BB4F6}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 10.664 7.314 42.778
+        Cable "{69E0E49ED3A5CDC4}" {
+         StartPoint 0.223 7.9 -0.114
+         EndPoint 10.627 7.314 42.647
         }
        }
       }
@@ -9968,9 +9969,9 @@ $grp PolylineShapeEntity {
        coords -21.819 -0.354 -19.761
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536BAC89}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 29.275 8.601 25.146
+        Cable "{69E0E49ED3A5CC23}" {
+         StartPoint 0.213 7.9 -0.131
+         EndPoint 29.284 8.596 25.429
         }
        }
       }
@@ -9994,19 +9995,19 @@ $grp PolylineShapeEntity {
       }
       {
        coords 109.854 5.479 -337.343
-       angles 0 313.242 0
+       angles 0 312.613 0
       }
       {
-       coords 74.447 2.695 -304.941
-       angles 0 310.394 0
+       coords 73.667 2.681 -305.662
+       angles 0 309.729 0
       }
       {
-       coords 41.165 2.146 -278.628
-       angles 0 303.984 0
+       coords 40.663 2.146 -279.636
+       angles 0 304.73 0
       }
       {
        coords 5.417 3.175 -258.29
-       angles 0 295.8 0
+       angles 0 296.582 0
       }
       {
        coords -21.451 3.556 -247.454
@@ -10128,9 +10129,9 @@ $grp PolylineShapeEntity {
        coords -11.873 10.598 -41.017
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
-        Cable "{6588D905536D9EAE}" {
-         StartPoint 0.25 7.9 0
-         EndPoint 14.128 -2.895 43.751
+        Cable "{69E0E49ED3A5F1E4}" {
+         StartPoint 0.238 7.9 -0.077
+         EndPoint 13.921 -2.923 44.38
         }
        }
       }

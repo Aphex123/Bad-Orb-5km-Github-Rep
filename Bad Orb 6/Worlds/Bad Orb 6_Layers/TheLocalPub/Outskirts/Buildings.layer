@@ -1,0 +1,5 @@
+SCR_DestructibleBuildingEntity : "{94765ED1DED1DFCE}Prefabs/Structures/Industrial/Houses/Sawmill_E_01/Sawmill_USSR_01.et" {
+ Flags 0 0x80000
+ coords 5491.589 325.591 973.697
+ angles 0 177.889 0
+}

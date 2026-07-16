@@ -1,12 +1,4 @@
-Tree : "{8F91FCAFE65FCDA6}Prefabs/Vegetation/Tree/t_carpinus_betulus_3s.et" {
+Tree : "{8F91FCAFE65FCDA6}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_3s.et" {
  ID "0F2AA6B42CA78628"
- components {
-  MeshObject "{73B3A8278EC9D71C}" {
-   LODFactors {
-    16 8 4 2 1
-   }
-   PixelSizeScale 4
-  }
- }
  scale 1.066
 }
